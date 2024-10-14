@@ -1,0 +1,29 @@
+{
+  "short_name": "Fiaz",
+  "name": "Abdul Rehman",
+  "icons": [
+    {
+      "src": "favicon/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "favicon/favicon.jpg",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "favicon/favicon.jpg",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "description": "Abdul Rehman - A dedicated Frontend Developer proficient in App/Web, Cloud, DevOps, AL/ML, and Design. Join my journey.",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,32 @@
+{
+  "intro": {
+    "start": "const myName = () =>",
+    "end": "Hey there!, my name is",
+    "speed": 60,
+    "deletionSpeed": 80,
+    "wrapper": "h2",
+    "startDelay": 1000,
+    "deleteDelay": 3000,
+    "restartDelay": 12000
+  },
+
+  "header": {
+    "name": "Abdul Rehman.",
+    "usp": "Passionate Frontend Developer."
+  },
+
+  "paragraph": "From an early age, my passion for creating new things has been a driving force. Immersed in the world of design and coding, I honed my skills and explored innovative solutions. This love for creation has shaped my career, fueling my desire to bring impactful and visually stunning projects to life. With meticulous attention to detail and a keen eye for aesthetics, I strive to craft exceptional and memorable experiences.",
+
+  "buttons": {
+    "primary": {
+      "title": "Hire Me",
+      "url": "mailto:s.muhammadfiaz2003@gmail.com",
+      "leaveSite": false
+    },
+    "secondary": {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/abdul-rehman-37507a224/",
+      "leaveSite": "true"
+    }
+  }
+}

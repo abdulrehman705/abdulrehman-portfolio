@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Allow: *
+
+# Host
+Host: https://abdulrehman.com
+Host: https://www.abdulrehman.com
+
+# Sitemaps
+Sitemap: https://abdulrehman.com/sitemap.xml
+Sitemap: https://abdulrehman.com/sitemap-0.xml
