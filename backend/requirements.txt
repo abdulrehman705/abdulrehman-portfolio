@@ -1,0 +1,13 @@
+pip==23.3
+setuptools==68.0.0
+wheel==0.40.0
+neurolink
+djangorestframework==3.14.0
+
+Django~=4.2.3
+
+django-cors-headers
+pycryptodome
+
+
+
