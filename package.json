@@ -55,7 +55,7 @@
     "react-transition-group": "^4.4.5",
     "react-type-animation": "^3.2.0",
     "semver": "^7.6.2",
-    "sharp": "^0.33.4",
+    "sharp": "^0.33.5",
     "the-new-css-reset": "^1.11.3",
     "three": "^0.165.0",
     "yarn": "^1.22.22"
