@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Abdul Rehman's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Full Stack Developer specializing in architecting end-to-end, AI-driven products with Next.js, Python, and AWS. I thrive on building sustainable, scalable systems that bridge technical excellence with real-world social impact",
   og: {
     title: "Abdul Rehman Portfolio",
     type: "website",
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "AbdulRehman",
   nickname: "Abbie",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Full Stack Developer specializing in architecting end-to-end, AI-driven products with Next.js, Python, and AWS. I thrive on building sustainable, scalable systems that bridge technical excellence with real-world social impact",
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
   portfolio_repository: "https://github.com/Abdul Rehman/masterPortfolio",
