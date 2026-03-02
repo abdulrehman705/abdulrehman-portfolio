@@ -1,42 +1,18 @@
-<p align="center">
-    <img src="images/masterportfolio-banner-light.png" align="center" height="150">
-</p>
-
-<h1 align="center"> Software Developer Master Portfolio 🔥 </h1>
+<h1 align="center">Abdul Rehman — AI Engineer & Full Stack Developer 🚀</h1>
 <h3 align="center">
-    A clean and customizable React-based portfolio template for developers.
+    Welcome to my personal portfolio. Explore my work in AI, Full Stack, and Cloud Development.
 </h3>
-
-<p align="center">
-  <a href="https://nodejs.org/"><img alt="NodeJS" src="https://img.shields.io/badge/node-20.11.1-important?style=flat-square" /></a>
-  <a href="https://www.npmjs.com/"><img alt="NPM" src="https://img.shields.io/badge/npm-10.2.4-blueviolet?style=flat-square" /></a>
-  <a href="https://reactjs.org/"><img alt="Made With React" src="https://img.shields.io/badge/made%20with-react-61DAFB?style=flat-square" /></a>
-  <a href="https://github.com/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square" /></a>
-  <a href="http://badges.mit-license.org/"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square" /></a>
-  <a href="https://img.shields.io/badge/price-free-ff69b4"><img alt="Price" src="https://img.shields.io/badge/price-free-ff69b4?style=flat-square" /></a>
-</p>
-
-<p align="center">
-    If you want to discuss or get support, join the <a href="https://discord.com/invite/GkcbM5bwZr">Discord Server</a>.
-</p>
-
-<p align="center">
-    <a href="https://ashutosh1919.github.io" target="_blank">
-        <img src="images/masterPortfolioThemes.png">
-    </a>
-</p>
-
-:star: Star us on GitHub — it helps!
 
 # Features
 
-- Beautiful, minimal and mobile-friendly portfolio template.
-- Fully customizable: update your information and sections in `src/portfolio.js`.
-- Sections include: About, Skills, Projects, Experience, Certifications, Blog, Education, Contact, and Resume Viewer.
-- Simple theming in `src/theme.js`.
-- Easy deployment to Github Pages.
+- Sleek, fast, and mobile-optimized portfolio, designed for developers and engineers.
+- Effortlessly customizable: edit your personal information, achievements, project showcase, work experience, certifications, blogs, education, contact details, and resume right in `src/portfolio.js`.
+- Comprehensive sections include: About, Skills, Projects, Experience, Certifications, Blog, Education, Contact, and a built-in Resume Viewer.
+- Easily manage color modes and branding with simple configuration in `src/theme.js`.
+- Quick deployment to Github Pages or any static hosting of your choice.
+- Built with modern tools: React, GraphQL, BaseUI, styled-components, and more.
 
-To view a live example, **[click here](https://ashutosh1919.github.io/)**
+To see a live demo, **[check out this example](https://ashutosh1919.github.io/)**
 
 # Quick Start
 
@@ -95,21 +71,3 @@ To view a live example, **[click here](https://ashutosh1919.github.io/)**
 
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file.
 
-# Contributors ✨
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-  <!-- Contributor table intentionally left unchanged -->
-  </tbody>
-</table>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-# References
-
-- Based on and inspired by [Saad Pasta's Portfolio Project](https://github.com/saadpasta/developerFolio).
-- Logo inspired by [prettier-logo](https://github.com/prettier/prettier-logo) by @ianstormtaylor.
