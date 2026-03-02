@@ -453,11 +453,11 @@ const certifications = {
     //   color_code: "#00000099",
     // },
     {
-      title: "Fullstack Development",
-      subtitle: "- Jogesh Muppala",
+      title: "Foundations of Cybersecurity",
+      subtitle: "- Abdul Rehman",
       logo_path: "coursera_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
+        "https://www.coursera.org/account/accomplishments/certificate/E9V7XR7TNXH2",
       alt_name: "Coursera",
       color_code: "#2A73CC",
     },
@@ -569,11 +569,11 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Fullstack Development",
-          subtitle: "- Jogesh Muppala",
+          title: "Foundations of Cybersecurity",
+          subtitle: "- Abdul Rehman",
           logo_path: "coursera_logo.png",
           certificate_link:
-            "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
+            "https://www.coursera.org/account/accomplishments/certificate/E9V7XR7TNXH2",
           alt_name: "Coursera",
           color_code: "#2A73CC",
         },
@@ -583,7 +583,7 @@ const experience = {
           logo_path: "stanford_logo.png",
           certificate_link:
             "https://www.coursera.org/account/accomplishments/certificate/2NR9M46RHQWA",
-          alt_name: "Stanford University",
+          alt_name: "Coursera",
           color_code: "#8C151599",
         }
       ],
