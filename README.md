@@ -12,8 +12,6 @@
 - Quick deployment to Github Pages or any static hosting of your choice.
 - Built with modern tools: React, GraphQL, BaseUI, styled-components, and more.
 
-To see a live demo, **[check out this example](https://ashutosh1919.github.io/)**
-
 # Quick Start
 
 1. Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed (see badges above for recommended versions).
@@ -29,7 +27,7 @@ To see a live demo, **[check out this example](https://ashutosh1919.github.io/)*
    ```bash
    npm start
    ```
-   Your portfolio will now be running locally.
+   Your portfolio should now be running at http://localhost:3000.
 
 # Customization
 
