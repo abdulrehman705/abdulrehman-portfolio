@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Abdul Rehman's Portfolio",
   description:
-    "Full Stack Developer specializing in architecting end-to-end, AI-driven products with Next.js, Python, and AWS. I thrive on building sustainable, scalable systems that bridge technical excellence with real-world social impact",
+    "Full Stack Developer specializing in architecting end-to-end, AI-driven products with Next.js, Python, and AWS.",
   og: {
     title: "Abdul Rehman Portfolio",
     type: "website",
