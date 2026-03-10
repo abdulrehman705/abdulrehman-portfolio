@@ -17,11 +17,11 @@ export default function Greeting(props) {
               <h1 className="greeting-text" style={{ color: theme.text }}>
                 {greeting.title}
               </h1>
-              {greeting.nickname && (
+              {/* {greeting.nickname && (
                 <h2 className="greeting-nickname" style={{ color: theme.text }}>
                   ( {greeting.nickname} )
                 </h2>
-              )}
+              )} */}
               <p
                 className="greeting-text-p subTitle"
                 style={{ 
