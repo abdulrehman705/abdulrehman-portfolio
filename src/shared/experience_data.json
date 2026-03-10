@@ -1,33 +1,51 @@
 {
 	"title": "Experience",
-	"subtitle": "Work, Internship and Volunteership",
-	"description":
-		"I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+	"subtitle": "Work and Experience",
+	"description": "Worked as Full Stack Engineer and MERN Stack Developer at Plutus21 Capital and Tallysis, focusing on AI/ads models and healthcare automation. Built Android and web apps at Enigmatix with face detection and image processing. Strong experience in app integrations, data communication, and UI in startup environments.",
 	"header_image_path": "experience.svg",
 	"sections": [
 		{
 			"title": "Work",
+			"work": true,
 			"experiences": [
 				{
-					"title": "Android and ML Developer",
-					"company": "Muffito Incorporation",
-					"company_url": "https://www.linkedin.com/company/muffito-inc/about/",
-					"logo_path": "muffito_logo.png",
-					"duration": "May 2018 - Oct 2018",
-					"location": "Pune, Maharashtra",
-					"description":
-						"I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+					"title": "Full Stack Engineer",
+					"company": "Plutus21 Capital",
+					"company_url": "https://capital.plutus21.com/",
+					"logo_path": "plutus21_logo.jpeg",
+					"duration": "April 2025 - Present",
+					"location": "Lahore PK",
+					"description": "Improving ads ranking models on the core Plutus21 Capital product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
+					"color": "#000000"
+				},
+				{
+					"title": "MERN Stack Developer",
+					"company": "Tallysis (Pvt) Ltd",
+					"company_url": "https://www.tallysis.com/",
+					"logo_path": "tallysis_logo.png",
+					"duration": "Aug 2024 - April 2025",
+					"location": "Lahore PK",
+					"description": "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+					"color": "#222831"
+				},
+				{
+					"title": "MERN Stack Developer",
+					"company": "Enigmatix Global",
+					"company_url": "https://www.linkedin.com/company/enigmatixglobal/about/",
+					"logo_path": "enigmatix_global_logo.jpeg",
+					"duration": "May 2023 - June 2024",
+					"location": "Manchester, England",
+					"description": "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
 					"color": "#9b1578"
 				},
 				{
-					"title": "Android Developer",
-					"company": "FreeCopy Pvt. Ltd.",
-					"company_url": "https://www.linkedin.com/company/freecopy/about/",
-					"logo_path": "freecopy_logo.png",
-					"duration": "Nov 2017 - Dec 2017",
-					"location": "Ahmedabad, Gujarat",
-					"description":
-						"FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+					"title": "Frontend Developer",
+					"company": "Enigmatix Pvt.",
+					"company_url": "https://www.linkedin.com/company/enigmatixpvtltd/about/",
+					"logo_path": "enigmatix_logo.jpg",
+					"duration": "May 2022 - May 2023",
+					"location": "Bahawalpur, PK",
+					"description": "Enigmatix is the Organization from The Islamia University, Bahawalpur. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
 					"color": "#fc1f20"
 				}
 			]
@@ -36,20 +54,16 @@
 			"title": "Internships",
 			"experiences": [
 				{
-					"title": "Data Science Research Intern",
-					"company": "Delhivery Pvt. Ltd.",
-					"company_url": "https://www.delhivery.com/",
-					"logo_path": "delhivery_logo.png",
-					"duration": "May 2019 - Sept 2019",
-					"location": "Gurgaon, Haryana",
-					"description": "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
-					"color": "#ee3c26"
+					"title": "Frontend Developer Intern",
+					"company": "Enigmatix Global",
+					"company_url": "https://www.linkedin.com/company/enigmatixglobal/about/",
+					"logo_path": "enigmatix_global_logo.jpeg",
+					"duration": "February 2022 - April 2022",
+					"location": "Bahawalpur, PK",
+					"description": "I have worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+					"color": "#9b1578"
 				}
 			]
-		},
-		{
-			"title": "Volunteerships",
-			"experiences": []
 		}
 	]
 }
