@@ -498,7 +498,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work and Experience",
   description:
-    "My experience spans multiple companies and roles. As a Full Stack Engineer at Plutus21 Capital, I focused on building and optimizing advertising and AI-driven ranking models. At Tallysis (Pvt) Ltd, I contributed as a MERN Stack Developer, automating healthcare solutions and developing predictive AI systems for cancer survival and recurrence. In my role at Enigmatix Global, I engineered both Android and web applications, integrating face detection and image processing, and contributed to architectural decisions and admin panel development. Earlier, as a Frontend Developer at Enigmatix Pvt., I overhauled app integrations and implemented advanced data communication, refining my skills in UI design and real-world startup environments. These experiences have deepened my technical expertise and allowed me to collaborate across diverse teams and technology stacks.",
+    "Worked as Full Stack Engineer and MERN Stack Developer at Plutus21 Capital and Tallysis, focusing on AI/ads models and healthcare automation. Built Android and web apps at Enigmatix with face detection and image processing. Strong experience in app integrations, data communication, and UI in startup environments.",
   header_image_path: "experience.svg",
   sections: [
     {
