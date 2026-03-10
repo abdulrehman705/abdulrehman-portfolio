@@ -11,7 +11,7 @@ const seo = {
   og: {
     title: "Abdul Rehman Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "#",
   },
 };
 
