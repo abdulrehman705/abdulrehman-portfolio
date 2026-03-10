@@ -1,0 +1,42 @@
+.github-achievements-header-div {
+  margin-top: 60px;
+}
+
+.github-achievements-header {
+  font-size: 40px;
+  line-height: 1.1;
+  font-family: "Google Sans Regular";
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.github-achievements-body-div {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 16px;
+  max-width: 1100px;
+  margin: 30px auto;
+  padding: 0 20px;
+}
+
+@media (max-width: 1380px) {
+  .github-achievements-header {
+    font-size: 35px;
+  }
+}
+
+@media (max-width: 768px) {
+  .github-achievements-header-div {
+    margin-top: 40px;
+  }
+
+  .github-achievements-header {
+    font-size: 25px;
+  }
+
+  .github-achievements-body-div {
+    grid-template-columns: 1fr;
+    padding: 0 16px;
+  }
+}

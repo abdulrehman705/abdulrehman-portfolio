@@ -1,0 +1,52 @@
+{
+	"data": [
+		{
+			"title": "Pull Shark",
+			"description": "Opened pull requests that have been merged",
+			"tier": "x3",
+			"icon": "octicon:git-pull-request-16",
+			"color": "#1f6feb",
+			"bgColor": "#ddf4ff"
+		},
+		{
+			"title": "YOLO",
+			"description": "Merged a pull request without code review",
+			"tier": "",
+			"icon": "octicon:flame-16",
+			"color": "#da3633",
+			"bgColor": "#ffebe9"
+		},
+		{
+			"title": "Quickdraw",
+			"description": "Closed an issue or pull request within 5 minutes of opening",
+			"tier": "",
+			"icon": "octicon:zap-16",
+			"color": "#bf8700",
+			"bgColor": "#fff8c5"
+		},
+		{
+			"title": "Arctic Code Vault Contributor",
+			"description": "Contributed code to repositories in the 2020 GitHub Archive Program",
+			"tier": "",
+			"icon": "octicon:north-star-16",
+			"color": "#1f6feb",
+			"bgColor": "#ddf4ff"
+		},
+		{
+			"title": "Pair Extraordinaire",
+			"description": "Co-authored commits on merged pull requests",
+			"tier": "",
+			"icon": "octicon:people-16",
+			"color": "#8250df",
+			"bgColor": "#fbefff"
+		},
+		{
+			"title": "Starstruck",
+			"description": "Created a repository that has many stars",
+			"tier": "",
+			"icon": "octicon:star-fill-16",
+			"color": "#bf8700",
+			"bgColor": "#fff8c5"
+		}
+	]
+}

@@ -3,6 +3,7 @@ import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import OpensourceCharts from "../../containers/opensourceCharts/OpensourceCharts";
 import Organizations from "../../containers/organizations/Organizations";
+import GithubAchievements from "../../containers/githubAchievements/GithubAchievements";
 import PullRequests from "../../containers/pullRequests/PullRequests";
 import Issues from "../../containers/issues/Issues";
 import TopButton from "../../components/topButton/TopButton";
@@ -14,6 +15,7 @@ class Opensource extends Component {
       <div className="opensource-main">
         <Header theme={this.props.theme} />
         <Organizations theme={this.props.theme} />
+        <GithubAchievements theme={this.props.theme} />
         <OpensourceCharts theme={this.props.theme} />
         <PullRequests theme={this.props.theme} />
         <Issues theme={this.props.theme} />
