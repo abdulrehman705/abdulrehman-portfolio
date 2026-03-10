@@ -21,9 +21,11 @@ const greeting = {
   logo_name: "AbdulRehman",
   nickname: "Abbie",
   subTitle:
-    "Full Stack Developer specializing in architecting end-to-end, AI-driven products with Next.js, Python, NestJS, PostgreSQL, MongoDB, Docker, and AWS.",
+    "Full Stack Developer specializing in architecting end-to-end, AI-driven products with Next.js, Python, NestJS, PostgreSQL, MongoDB, Docker, and AWS.\n"
+    + "Passionate about building scalable systems, cloud-native architectures, and automation workflows.\n"
+    + "Experienced with CI/CD pipelines.",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
+    "https://drive.google.com/file/d/1Y0-kkW_OiiF0v-Pp6_xTEBcFfyYGkVEn/view?usp=sharing",
   portfolio_repository: "https://github.com/abdulrehman705/abdulrehman-portfolio",
   githubProfile: "https://github.com/abdulrehman705",
 };
