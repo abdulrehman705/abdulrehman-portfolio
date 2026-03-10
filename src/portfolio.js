@@ -1,4 +1,4 @@
-/* Change this file to get your personal Porfolio */
+/* Change this file to get your personal Portfolio */
 
 // Website related settings
 const settings = {
@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Abdul Rehman's Portfolio",
   description:
-    "Full Stack Developer specializing in architecting end-to-end, AI-driven products with Next.js, Python, and AWS.",
+    "Full Stack Developer specializing in architecting end-to-end, AI-driven products with Next.js, Python, NestJS, PostgreSQL, MongoDB, Docker, and AWS.",
   og: {
     title: "Abdul Rehman Portfolio",
     type: "website",
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "AbdulRehman",
   nickname: "Abbie",
   subTitle:
-    "Full Stack Developer specializing in architecting end-to-end, AI-driven products with Next.js, Python, and AWS. I thrive on building sustainable, scalable systems that bridge technical excellence with real-world social impact",
+    "Full Stack Developer specializing in architecting end-to-end, AI-driven products with Next.js, Python, NestJS, PostgreSQL, MongoDB, Docker, and AWS.",
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
   portfolio_repository: "https://github.com/abdulrehman705/abdulrehman-portfolio",
@@ -164,6 +164,20 @@ const skills = {
           },
         },
         {
+          skillName: "TypeScript",
+          fontAwesomeClassname: "simple-icons:typescript",
+          style: {
+            color: "#007ACC",
+          },
+        },
+        {
+          skillName: "TailwindCSS",
+          fontAwesomeClassname: "simple-icons:tailwindcss",
+          style: {
+            color: "#000000",
+          },
+        },
+        {
           skillName: "ReactJS",
           fontAwesomeClassname: "simple-icons:react",
           style: {
@@ -178,103 +192,89 @@ const skills = {
           },
         },
         {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
+          skillName: "NextJS",
+          fontAwesomeClassname: "simple-icons:nextjs",
           style: {
-            color: "#CB3837",
+            color: "#000000",
           },
         },
         {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
+          skillName: "React Native",
+          fontAwesomeClassname: "simple-icons:reactnative",
           style: {
-            color: "#2C8EBB",
+            color: "#000000",
           },
         },
-        // {
-        //   skillName: "Gatsby",
-        //   fontAwesomeClassname: "simple-icons:gatsby",
-        //   style: {
-        //     color: "#663399",
-        //   },
-        // },
-        // {
-        //   skillName: "Flutter",
-        //   fontAwesomeClassname: "simple-icons:flutter",
-        //   style: {
-        //     color: "#02569B",
-        //   },
-        // },
       ],
     },
-    // {
-    //   title: "Cloud Infra-Architecture",
-    //   fileName: "CloudInfraImg",
-    //   skills: [
-    //     "⚡ Experience working on multiple cloud platforms",
-    //     "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-    //     "⚡ Deploying deep learning models on cloud to use on mobile devices",
-    //     "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
-    //   ],
-    //   softwareSkills: [
-    //     {
-    //       skillName: "GCP",
-    //       fontAwesomeClassname: "simple-icons:googlecloud",
-    //       style: {
-    //         color: "#4285F4",
-    //       },
-    //     },
-    //     {
-    //       skillName: "AWS",
-    //       fontAwesomeClassname: "simple-icons:amazonaws",
-    //       style: {
-    //         color: "#FF9900",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Azure",
-    //       fontAwesomeClassname: "simple-icons:microsoftazure",
-    //       style: {
-    //         color: "#0089D6",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Firebase",
-    //       fontAwesomeClassname: "simple-icons:firebase",
-    //       style: {
-    //         color: "#FFCA28",
-    //       },
-    //     },
-    //     {
-    //       skillName: "PostgreSQL",
-    //       fontAwesomeClassname: "simple-icons:postgresql",
-    //       style: {
-    //         color: "#336791",
-    //       },
-    //     },
-    //     {
-    //       skillName: "MongoDB",
-    //       fontAwesomeClassname: "simple-icons:mongodb",
-    //       style: {
-    //         color: "#47A248",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Docker",
-    //       fontAwesomeClassname: "simple-icons:docker",
-    //       style: {
-    //         color: "#1488C6",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Kubernetes",
-    //       fontAwesomeClassname: "simple-icons:kubernetes",
-    //       style: {
-    //         color: "#326CE5",
-    //       },
-    //     },
-    //   ],
-    // },
+    {
+      title: "Cloud Infra-Architecture",
+      fileName: "CloudInfraImg",
+      skills: [
+        "⚡ Experience working on multiple cloud platforms",
+        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
+        "⚡ Deploying deep learning models on cloud to use on mobile devices",
+        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+      ],
+      softwareSkills: [
+        {
+          skillName: "AWS",
+          fontAwesomeClassname: "simple-icons:amazonaws",
+          style: {
+            color: "#FF9900",
+          },
+        },
+        {
+          skillName: "Azure",
+          fontAwesomeClassname: "simple-icons:microsoftazure",
+          style: {
+            color: "#0089D6",
+          },
+        },
+        {
+          skillName: "Firebase",
+          fontAwesomeClassname: "simple-icons:firebase",
+          style: {
+            color: "#FFCA28",
+          },
+        },
+        {
+          skillName: "PostgreSQL",
+          fontAwesomeClassname: "simple-icons:postgresql",
+          style: {
+            color: "#336791",
+          },
+        },
+        {
+          skillName: "MongoDB",
+          fontAwesomeClassname: "simple-icons:mongodb",
+          style: {
+            color: "#47A248",
+          },
+        },
+        {
+          skillName: "Docker",
+          fontAwesomeClassname: "simple-icons:docker",
+          style: {
+            color: "#1488C6",
+          },
+        },
+        {
+          skillName: "NestJS",
+          fontAwesomeClassname: "simple-icons:nestjs",
+          style: {
+            color: "#E0234E",
+          },
+        },
+        {
+          skillName: "Supabase",
+          fontAwesomeClassname: "simple-icons:supabase",
+          style: {
+            color: "#3FCF8E",
+          },
+        }
+      ],
+    },
     {
       title: "UI/UX Design",
       fileName: "DesignImg",
@@ -343,7 +343,15 @@ const competitiveSites = {
         color: "#A435F0",
       },
       profileLink: "https://www.udemy.com/user/abdul-rehman-2538",
-    }
+    },
+    {
+      siteName: "HP Life Global",
+      iconifyClassname: "simple-icons:hp",
+      style: {
+        color: "#000000",
+      },
+      profileLink: "https://www.life-global.org",
+    },
   ],
 };
 
@@ -352,7 +360,7 @@ const degrees = {
     {
       title: "The Islamia University of Bahawalpur",
       subtitle: "BS Software Engineering",
-      logo_path: "iiitk_logo.png",
+      logo_path: process.env.PUBLIC_URL + "/images/iiitk_logo.png",
       alt_name: "The Islamia University of Bahawalpur",
       duration: "2021 - 2025",
       descriptions: [
@@ -365,7 +373,7 @@ const degrees = {
     {
       title: "Jinnah Science College",
       subtitle: "ICS (Intermediate Computer Science)",
-      logo_path: "iub_logo.png",
+      logo_path: process.env.PUBLIC_URL + "/images/jsc_logo.png",
       alt_name: "Jinnah Science College",
       duration: "2018 - 2020",
       descriptions: [
@@ -378,116 +386,110 @@ const degrees = {
   ],
 };
 
+const courseraLogo = process.env.PUBLIC_URL + "/images/coursera_logo.png";
+const hpLifeLogo = process.env.PUBLIC_URL + "/images/hp_life_logo.jpg";
+
 const certifications = {
   certifications: [
     {
       title: "Foundations of Cybersecurity",
-      subtitle: "- Abdul Rehman",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/E9V7XR7TNXH2",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "Manage Security Risks",
-      subtitle: "- Abdul Rehman",
-      logo_path: "stanford_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/2NR9M46RHQWA",
-      alt_name: "Stanford University",
-      color_code: "#8C151599",
-    },
-    // {
-    //   title: "ML on GCP",
-    //   subtitle: "- GCP Training",
-    //   logo_path: "google_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
-    //   alt_name: "Google",
-    //   color_code: "#0C9D5899",
-    // },
-    // {
-    //   title: "Data Science",
-    //   subtitle: "- Alex Aklson",
-    //   logo_path: "ibm_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
-    //   alt_name: "IBM",
-    //   color_code: "#1F70C199",
-    // },
-    // {
-    //   title: "Big Data",
-    //   subtitle: "- Kim Akers",
-    //   logo_path: "microsoft_logo.png",
-    //   certificate_link:
-    //     "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-    //   alt_name: "Microsoft",
-    //   color_code: "#D83B0199",
-    // },
-    // {
-    //   title: "Advanced Data Science",
-    //   subtitle: "- Romeo Kienzler",
-    //   logo_path: "ibm_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
-    //   alt_name: "IBM",
-    //   color_code: "#1F70C199",
-    // },
-    // {
-    //   title: "Advanced ML on GCP",
-    //   subtitle: "- GCP Training",
-    //   logo_path: "google_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-    //   alt_name: "Google",
-    //   color_code: "#0C9D5899",
-    // },
-    // {
-    //   title: "DL on Tensorflow",
-    //   subtitle: "- Laurence Moroney",
-    //   logo_path: "deeplearning_ai_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-    //   alt_name: "deeplearning.ai",
-    //   color_code: "#00000099",
-    // },
-    {
-      title: "Foundations of Cybersecurity",
-      subtitle: "- Abdul Rehman",
-      logo_path: "coursera_logo.png",
+      subtitle: "- Coursera",
+      logo_path: courseraLogo,
       certificate_link:
         "https://www.coursera.org/account/accomplishments/certificate/E9V7XR7TNXH2",
       alt_name: "Coursera",
-      color_code: "#2A73CC",
+      color_code: "transparent",
     },
-    // {
-    //   title: "Kuberenetes on GCP",
-    //   subtitle: "- Qwiklabs",
-    //   logo_path: "gcp_logo.png",
-    //   certificate_link:
-    //     "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
-    //   alt_name: "GCP",
-    //   color_code: "#4285F499",
-    // },
     {
-      title: "Cryptography",
-      subtitle: "- Saurabh Mukhopadhyay",
-      logo_path: "nptel_logo.png",
+      title: "Manage Security Risks",
+      subtitle: "- Coursera",
+      logo_path: courseraLogo,
       certificate_link:
-        "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-      alt_name: "NPTEL",
-      color_code: "#FFBB0099",
+        "https://www.coursera.org/account/accomplishments/certificate/2NR9M46RHQWA",
+      alt_name: "Coursera",
+      color_code: "transparent",
     },
-    // {
-    //   title: "Cloud Architecture",
-    //   subtitle: "- Qwiklabs",
-    //   logo_path: "gcp_logo.png",
-    //   certificate_link:
-    //     "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-    //   alt_name: "GCP",
-    //   color_code: "#4285F499",
-    // },
+    {
+      title: "Foundations of Cybersecurity",
+      subtitle: "- Coursera",
+      logo_path: courseraLogo,
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/E9V7XR7TNXH2",
+      alt_name: "Coursera",
+      color_code: "transparent",
+    },
+    {
+      title: "Critical Thinking in the AI Era",
+      subtitle: "- HP Life Global",
+      logo_path: hpLifeLogo,
+      certificate_link:
+        "https://www.life-global.org/certificate/3cbedb01-3498-4354-bf13-d118c860fd7d",
+      alt_name: "HP Life Global",
+      color_code: "transparent",
+    },
+    {
+      title: "Customer Relationship Management",
+      subtitle: "- HP Life Global",
+      logo_path: hpLifeLogo,
+      certificate_link:
+        "https://www.life-global.org/certificate/88705acb-48e6-4fe3-9797-08698fa03dca",
+      alt_name: "HP Life Global",
+      color_code: "transparent",
+    },
+    {
+      title: "Success Mindset",
+      subtitle: "- HP Life Global",
+      logo_path: hpLifeLogo,
+      certificate_link:
+        "https://www.life-global.org/certificate/95627d02-0d5a-47e9-b3e8-bc25a2978f5e",
+      alt_name: "HP Life Global",
+      color_code: "transparent",
+    },
+    {
+      title: "Agile Project Management",
+      subtitle: "- HP Life Global",
+      logo_path: hpLifeLogo,
+      certificate_link:
+        "https://www.life-global.org/certificate/86235eb9-4ac6-43eb-96b6-4d38cbe42404",
+      alt_name: "HP Life Global",
+      color_code: "transparent",
+    },
+    {
+      title: "Customer Experience (CX) for Business Success",
+      subtitle: "- HP Life Global",
+      logo_path: hpLifeLogo,
+      certificate_link:
+        "https://www.life-global.org/certificate/81a0398c-e996-4d0b-89e5-09f68e058a61",
+      alt_name: "HP Life Global",
+      color_code: "transparent",
+    },
+    {
+      title: "Business Email",
+      subtitle: "- HP Life Global",
+      logo_path: hpLifeLogo,
+      certificate_link:
+        "https://www.life-global.org/certificate/b1d94271-e8d7-445a-a706-dbad29031a7c",
+      alt_name: "HP Life Global",
+      color_code: "transparent",
+    },
+    {
+      title: "AI for Business Professionals",
+      subtitle: "- HP Life Global",
+      logo_path: hpLifeLogo,
+      certificate_link:
+        "https://www.life-global.org/certificate/26510999-9066-4b09-b477-c5a1a5d8a8fc",
+      alt_name: "HP Life Global",
+      color_code: "transparent",
+    },
+    {
+      title: "Professional Networking for Career Growth",
+      subtitle: "- HP Life Global",
+      logo_path: hpLifeLogo,
+      certificate_link:
+        "https://www.life-global.org/certificate/af314904-40a5-4f99-8435-e0e07a007a99",
+      alt_name: "HP Life Global",
+      color_code: "transparent",
+    },
   ],
 };
 
@@ -496,7 +498,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work and Experience",
   description:
-    "I have worked with several evolving startups as a Full Stack Developer and Software Architect, specializing in React.js, Next.js, and Python. I have also contributed to well-established projects as an AI Engineer, integrating proprietary services like OpenAI and Eleven Labs to build high-performance, automated systems. Outside of development, I am a dedicated team player and leader, recognized for my contributions to organizational management and team-based excellence.",
+    "My experience spans multiple companies and roles. As a Full Stack Engineer at Plutus21 Capital, I focused on building and optimizing advertising and AI-driven ranking models. At Tallysis (Pvt) Ltd, I contributed as a MERN Stack Developer, automating healthcare solutions and developing predictive AI systems for cancer survival and recurrence. In my role at Enigmatix Global, I engineered both Android and web applications, integrating face detection and image processing, and contributed to architectural decisions and admin panel development. Earlier, as a Frontend Developer at Enigmatix Pvt., I overhauled app integrations and implemented advanced data communication, refining my skills in UI design and real-world startup environments. These experiences have deepened my technical expertise and allowed me to collaborate across diverse teams and technology stacks.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -505,31 +507,31 @@ const experience = {
       experiences: [
         {
           title: "Full Stack Engineer",
-          company: "Tallysis (Pvt) Ltd",
-          company_url: "https://www.tallysis.com",
-          logo_path: "tiktok_logo.png",
+          company: "Plutus21 Capital",
+          company_url: "https://capital.plutus21.com/",
+          logo_path: process.env.PUBLIC_URL + "/images/plutus21_logo.jpeg",
           duration: "April 2025 - Present",
           location: "Lahore PK",
           description:
-            "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
+            "Improving ads ranking models on the core Plutus21 Capital product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
           color: "#000000",
         },
         {
           title: "MERN Stack Developer",
-          company: "PA Byte",
-          company_url: "https://pabyte.com/",
-          logo_path: "legato_logo.png",
+          company: "Tallysis (Pvt) Ltd",
+          company_url: "https://www.tallysis.com/",
+          logo_path: process.env.PUBLIC_URL + "/images/tallysis_logo.png",
           duration: "Aug 2024 - April 2025",
           location: "Lahore PK",
           description:
             "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
-          color: "#0879bf",
+          color: "#222831",
         },
         {
           title: "MERN Stack Developer",
           company: "Enigmatix Global",
           company_url: "https://www.linkedin.com/company/enigmatixglobal/about/",
-          logo_path: "muffito_logo.png",
+          logo_path: process.env.PUBLIC_URL + "/images/enigmatix_global_logo.jpeg",
           duration: "May 2023 - June 2024",
           location: "Manchester, England",
           description:
@@ -540,7 +542,7 @@ const experience = {
           title: "Frontend Developer",
           company: "Enigmatix Pvt.",
           company_url: "https://www.linkedin.com/company/enigmatixpvtltd/about/",
-          logo_path: "freecopy_logo.png",
+          logo_path: process.env.PUBLIC_URL + "/images/enigmatix_logo.jpg",
           duration: "May 2022 - May 2023",
           location: "Bahawalpur, PK",
           description:
@@ -556,7 +558,7 @@ const experience = {
           title: "Frontend Developer Intern",
           company: "Enigmatix Global",
           company_url: "https://www.linkedin.com/company/enigmatixglobal/about/",
-          logo_path: "muffito_logo.png",
+          logo_path: process.env.PUBLIC_URL + "/images/enigmatix_global_logo.jpeg",
           duration: "February 2022 - April 2022",
           location: "Bahawalpur, PK",
           description:
@@ -565,29 +567,29 @@ const experience = {
         },
       ],
     },
-    {
-      title: "Volunteerships",
-      experiences: [
-        {
-          title: "Foundations of Cybersecurity",
-          subtitle: "- Abdul Rehman",
-          logo_path: "coursera_logo.png",
-          certificate_link:
-            "https://www.coursera.org/account/accomplishments/certificate/E9V7XR7TNXH2",
-          alt_name: "Coursera",
-          color_code: "#2A73CC",
-        },
-        {
-          title: "Manage Security Risks",
-          subtitle: "- Abdul Rehman",
-          logo_path: "stanford_logo.png",
-          certificate_link:
-            "https://www.coursera.org/account/accomplishments/certificate/2NR9M46RHQWA",
-          alt_name: "Coursera",
-          color_code: "#8C151599",
-        }
-      ],
-    },
+    // {
+    //   title: "Volunteerships",
+    //   experiences: [
+    //     {
+    //       title: "Foundations of Cybersecurity",
+    //       subtitle: "- Abdul Rehman",
+    //       logo_path: courseraLogo,
+    //       certificate_link:
+    //         "https://www.coursera.org/account/accomplishments/certificate/E9V7XR7TNXH2",
+    //       alt_name: "Coursera",
+    //       color_code: "#2A73CC",
+    //     },
+    //     {
+    //       title: "Manage Security Risks",
+    //       subtitle: "- Abdul Rehman",
+    //       logo_path: process.env.PUBLIC_URL + "/images/stanford_logo.png",
+    //       certificate_link:
+    //         "https://www.coursera.org/account/accomplishments/certificate/2NR9M46RHQWA",
+    //       alt_name: "Coursera",
+    //       color_code: "#8C151599",
+    //     }
+    //   ],
+    // },
   ],
 };
 
