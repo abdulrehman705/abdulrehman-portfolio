@@ -5,6 +5,7 @@
   "homepage": ".",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
+    "fetch-data": "node scripts/fetchGithubData.js",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b gh-pages -d build",
     "eject": "react-scripts eject",

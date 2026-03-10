@@ -578,6 +578,14 @@ const experience = {
   ],
 };
 
+// Open Source Page
+const openSource = {
+  githubUserName: process.env.REACT_APP_GITHUB_USERNAME || "abdulrehman705",
+  githubConvertedToken: btoa(
+    process.env.REACT_APP_GITHUB_TOKEN || ""
+  ),
+};
+
 // Projects Page
 const projectsHeader = {
   title: "Projects",
@@ -660,6 +668,7 @@ export {
   degrees,
   certifications,
   experience,
+  openSource,
   projectsHeader,
   publicationsHeader,
   publications,
