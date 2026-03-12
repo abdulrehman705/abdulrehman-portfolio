@@ -4,9 +4,13 @@ const fs = require("fs");
 const path = require("path");
 
 const GITHUB_TOKEN =
-  process.env.GITHUB_TOKEN || process.env.REACT_APP_GITHUB_TOKEN;
+  process.env.GH_PAT ||
+  process.env.GITHUB_TOKEN ||
+  process.env.REACT_APP_GITHUB_TOKEN;
 const GITHUB_USERNAME =
-  process.env.GITHUB_USERNAME || process.env.REACT_APP_GITHUB_USERNAME;
+  process.env.PORTFOLIO_GITHUB_USERNAME ||
+  process.env.GITHUB_USERNAME ||
+  process.env.REACT_APP_GITHUB_USERNAME;
 const GITHUB_API = "https://api.github.com/graphql";
 
 if (!GITHUB_TOKEN || !GITHUB_USERNAME) {

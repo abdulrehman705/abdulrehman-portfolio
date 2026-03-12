@@ -1,0 +1,30 @@
+name: Fetch GitHub Data
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day at midnight UTC
+  workflow_dispatch: # manual trigger from Actions tab
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+
+    env:
+      GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+      GITHUB_USERNAME: ${{ secrets.PORTFOLIO_GITHUB_USERNAME }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - run: npm install
+
+      - run: npm run fetch-data
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update GitHub data"
+          file_pattern: "src/shared/opensource/*.json"
