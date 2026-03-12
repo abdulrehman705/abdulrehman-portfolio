@@ -1035,31 +1035,6 @@ function CursorEffect({ theme }) {
       splat(pointer.texcoordX, pointer.texcoordY, dx, dy, pointer.color);
     }
 
-    function clickSplat(pointer) {
-      const tx = pointer.texcoordX;
-      const ty = pointer.texcoordY;
-      const radiusScale = 2.2;
-      const force = 70;
-
-      for (let i = 0; i < 8; i++) {
-        const angle = (Math.PI * 2 * i) / 8 + Math.random() * 0.3;
-        const strength = 0.6 + Math.random() * 0.5;
-        const dx = Math.cos(angle) * force * strength;
-        const dy = Math.sin(angle) * force * strength;
-        const color = generateColor();
-        color.r *= 12.0;
-        color.g *= 12.0;
-        color.b *= 12.0;
-        splat(tx, ty, dx, dy, color, radiusScale);
-      }
-
-      const centerColor = generateColor();
-      centerColor.r *= 14.0;
-      centerColor.g *= 14.0;
-      centerColor.b *= 14.0;
-      splat(tx, ty, 0, 0, centerColor, radiusScale * 0.8);
-    }
-
     function splat(x, y, dx, dy, color, radiusScale) {
       const r = radiusScale == null ? 1 : radiusScale;
       splatProgram.bind();
