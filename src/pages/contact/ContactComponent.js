@@ -23,18 +23,8 @@ class Contact extends Component {
         <Header theme={theme} />
         <div className="basic-contact">
           <Fade bottom duration={1000} distance="40px">
-            <div className="contact-heading-div" style={{ display: "flex", alignItems: "center", justifyContent: "center" }}>
-              {/* Left Side: Contact Me Text and Detail */}
-              <div
-                className="contact-heading-text-div"
-                style={{
-                  flex: "0 1 45%",
-                  maxWidth: "45%",
-                  minWidth: "280px",
-                  marginRight: "5%",
-                  boxSizing: "border-box",
-                }}
-              >
+            <div className="contact-heading-div">
+              <div className="contact-heading-text-div">
                 <h1
                   className="contact-heading-text"
                   style={{ color: theme.text }}
@@ -56,18 +46,7 @@ class Contact extends Component {
                   />
                 </div>
               </div>
-              {/* Right Side: Blog Image */}
-              <div
-                className="blog-image-side-div"
-                style={{
-                  flex: "0 1 50%",
-                  maxWidth: "50%",
-                  display: "flex",
-                  alignItems: "center",
-                  justifyContent: "center",
-                  minWidth: "220px",
-                }}
-              >
+              <div className="blog-image-side-div">
                 <BlogsImg theme={theme} />
               </div>
             </div>
