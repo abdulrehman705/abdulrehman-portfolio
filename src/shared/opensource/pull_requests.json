@@ -254,9 +254,9 @@
       "mergedBy": null,
       "createdAt": "2026-03-09T05:06:57Z",
       "number": 1193,
-      "changedFiles": 19,
-      "additions": 3140,
-      "deletions": 1368,
+      "changedFiles": 20,
+      "additions": 3316,
+      "deletions": 1378,
       "baseRepository": {
         "name": "gos-backend",
         "url": "https://github.com/stablestakesiq/gos-backend",
