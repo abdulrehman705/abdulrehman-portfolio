@@ -39,7 +39,7 @@ class Header extends Component {
               className="menu"
               style={{
                 backgroundColor: theme.body,
-                ["--nav-highlight"]: theme.highlight,
+                "--nav-highlight": theme.highlight,
               }}
             >
               <li>
