@@ -578,12 +578,10 @@ const experience = {
   ],
 };
 
-// Open Source Page
+// Open Source Page (username only; token must not be in client bundle for security)
 const openSource = {
-  githubUserName: process.env.REACT_APP_GITHUB_USERNAME || "abdulrehman705",
-  githubConvertedToken: btoa(
-    process.env.REACT_APP_GITHUB_TOKEN || ""
-  ),
+  githubUserName: "abdulrehman705",
+  githubConvertedToken: "",
 };
 
 // Projects Page

@@ -18,11 +18,11 @@ export default function Projects() {
     const client = new ApolloClient({
       uri: "https://api.github.com/graphql",
       request: (operation) => {
-        operation.setContext({
-          headers: {
-            authorization: `Bearer ${atob(openSource.githubConvertedToken)}`,
-          },
-        });
+        const headers = {};
+        if (openSource.githubConvertedToken) {
+          headers.authorization = `Bearer ${atob(openSource.githubConvertedToken)}`;
+        }
+        operation.setContext({ headers });
       },
     });
 

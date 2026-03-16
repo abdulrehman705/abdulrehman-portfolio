@@ -1,0 +1,8 @@
+# Build settings (can override UI)
+[build]
+  publish = "build"
+  command = "npm run build"
+
+# GitHub username is public; omit from secret scan so it can appear in build/output
+[build.environment]
+  SECRETS_SCAN_OMIT_KEYS = "PORTFOLIO_GITHUB_USERNAME"
