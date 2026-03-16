@@ -5,6 +5,8 @@
   max-width: 90%;
   padding: 20px 10px;
   margin: 0px auto;
+  border-radius: 16px;
+  transition: box-shadow 0.3s ease;
 }
 
 .header ul {
@@ -12,8 +14,9 @@
   padding: 0;
   list-style: none;
   overflow: hidden;
-  /* background-color: #fff; */
+  border-radius: 12px;
 }
+
 .grey-color {
   color: #868e96;
 }
@@ -21,13 +24,29 @@
 .header li a {
   display: block;
   padding: 20px 20px;
-  /* color: black; */
   text-decoration: none;
+  border-radius: 10px;
+  transition: background-color 0.3s ease, color 0.2s ease;
+  position: relative;
+  overflow: hidden;
 }
 
-.header li a:hover,
-.header .menu-btn:hover {
-  /* background-color: #A6E1FA; */
+/* Sliding underline animation */
+.header li a::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: 12px;
+  width: 0;
+  height: 3px;
+  background: var(--nav-highlight, currentColor);
+  border-radius: 2px;
+  transform: translateX(-50%);
+  transition: width 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.header li a:hover::after {
+  width: 60%;
 }
 
 .header .logo {
@@ -54,7 +73,7 @@
 .header .menu {
   clear: both;
   max-height: 0;
-  transition: max-height 0.2s ease-out;
+  transition: max-height 0.35s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 /* menu icon */
@@ -128,6 +147,13 @@
 @media (min-width: 69em) {
   .header li {
     float: left;
+  }
+  .header li a {
+    margin: 0 4px;
+    padding: 12px 18px;
+  }
+  .header li a::after {
+    bottom: 8px;
   }
   .header {
     display: flex;

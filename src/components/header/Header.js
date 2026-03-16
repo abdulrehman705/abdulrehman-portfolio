@@ -35,11 +35,18 @@ class Header extends Component {
             <label className="menu-icon" htmlFor="menu-btn">
               <span className="navicon"></span>
             </label>
-            <ul className="menu" style={{ backgroundColor: theme.body }}>
+            <ul
+              className="menu"
+              style={{
+                backgroundColor: theme.body,
+                ["--nav-highlight"]: theme.highlight,
+              }}
+            >
               <li>
                 <NavLink
                   to="/home"
                   tag={Link}
+                  activeClassName="active"
                   activeStyle={{ fontWeight: "bold" }}
                   style={{ color: theme.text }}
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
@@ -52,6 +59,7 @@ class Header extends Component {
                 <NavLink
                   to="/education"
                   tag={Link}
+                  activeClassName="active"
                   activeStyle={{ fontWeight: "bold" }}
                   style={{ color: theme.text }}
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
@@ -64,6 +72,7 @@ class Header extends Component {
                 <NavLink
                   to="/experience"
                   tag={Link}
+                  activeClassName="active"
                   activeStyle={{ fontWeight: "bold" }}
                   style={{ color: theme.text }}
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
@@ -76,6 +85,7 @@ class Header extends Component {
                 <NavLink
                   to="/projects"
                   tag={Link}
+                  activeClassName="active"
                   activeStyle={{ fontWeight: "bold" }}
                   style={{ color: theme.text }}
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
@@ -88,6 +98,7 @@ class Header extends Component {
                 <NavLink
                   to="/opensource"
                   tag={Link}
+                  activeClassName="active"
                   activeStyle={{ fontWeight: "bold" }}
                   style={{ color: theme.text }}
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
@@ -100,6 +111,7 @@ class Header extends Component {
                 <NavLink
                   to="/contact"
                   tag={Link}
+                  activeClassName="active"
                   activeStyle={{ fontWeight: "bold" }}
                   style={{ color: theme.text }}
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
