@@ -1,6 +1,56 @@
 {
   "data": [
     {
+      "id": "PR_kwDOMcEDz87KwVfo",
+      "title": "Fix formatting in README.md",
+      "url": "https://github.com/abdulrehman705/abdulrehman705/pull/30",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-03-15T20:17:51Z",
+      "number": 30,
+      "changedFiles": 1,
+      "additions": 0,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "abdulrehman705",
+        "url": "https://github.com/abdulrehman705/abdulrehman705",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+          "login": "abdulrehman705",
+          "url": "https://github.com/abdulrehman705"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMbiNKc7KRz0g",
+      "title": "remove on blur validation and move to add funds button click",
+      "url": "https://github.com/stablestakesiq/gos-player/pull/1102",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-03-13T07:24:40Z",
+      "number": 1102,
+      "changedFiles": 1,
+      "additions": 78,
+      "deletions": 56,
+      "baseRepository": {
+        "name": "gos-player",
+        "url": "https://github.com/stablestakesiq/gos-player",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188860703?v=4",
+          "login": "stablestakesiq",
+          "url": "https://github.com/stablestakesiq"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOMcEDz87J0Egd",
       "title": "Remove empty line in README.md",
       "url": "https://github.com/abdulrehman705/abdulrehman705/pull/29",
@@ -154,7 +204,7 @@
       "id": "PR_kwDOMbiNKc7I_TuN",
       "title": "Staging",
       "url": "https://github.com/stablestakesiq/gos-player/pull/1093",
-      "state": "OPEN",
+      "state": "CLOSED",
       "mergedBy": null,
       "createdAt": "2026-03-09T07:51:20Z",
       "number": 1093,
@@ -250,12 +300,16 @@
       "id": "PR_kwDOMbdHIc7I9ZP0",
       "title": "Staging",
       "url": "https://github.com/stablestakesiq/gos-backend/pull/1193",
-      "state": "OPEN",
-      "mergedBy": null,
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/135221327?v=4",
+        "url": "https://github.com/AHBAlEh",
+        "login": "AHBAlEh"
+      },
       "createdAt": "2026-03-09T05:06:57Z",
       "number": 1193,
-      "changedFiles": 20,
-      "additions": 3316,
+      "changedFiles": 22,
+      "additions": 3725,
       "deletions": 1378,
       "baseRepository": {
         "name": "gos-backend",
@@ -10086,8 +10140,8 @@
       }
     }
   ],
-  "open": 3,
-  "merged": 395,
-  "closed": 7,
-  "totalCount": 405
+  "open": 1,
+  "merged": 398,
+  "closed": 8,
+  "totalCount": 407
 }
