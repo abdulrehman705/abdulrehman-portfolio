@@ -1,6 +1,81 @@
 {
   "data": [
     {
+      "id": "PR_kwDOQpoANc7LNe6c",
+      "title": "feat: add reset password integration",
+      "url": "https://github.com/Ctrllaunch/fpa-admin-panel/pull/42",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-03-17T12:25:12Z",
+      "number": 42,
+      "changedFiles": 2,
+      "additions": 124,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "fpa-admin-panel",
+        "url": "https://github.com/Ctrllaunch/fpa-admin-panel",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOb9xTs7LMV4R",
+      "title": "UI changes move to production",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/146",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-03-17T11:14:20Z",
+      "number": 146,
+      "changedFiles": 5,
+      "additions": 74,
+      "deletions": 23,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOQdhZAc7LIpiM",
+      "title": "updated soniox and other integration merge to dubai",
+      "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/65",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-03-17T07:32:40Z",
+      "number": 65,
+      "changedFiles": 21,
+      "additions": 2083,
+      "deletions": 579,
+      "baseRepository": {
+        "name": "nurmed-frontend",
+        "url": "https://github.com/Nurmed-ai/nurmed-frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOMcEDz87KwVfo",
       "title": "Fix formatting in README.md",
       "url": "https://github.com/abdulrehman705/abdulrehman705/pull/30",
@@ -10141,7 +10216,7 @@
     }
   ],
   "open": 1,
-  "merged": 398,
+  "merged": 401,
   "closed": 8,
-  "totalCount": 407
+  "totalCount": 410
 }
