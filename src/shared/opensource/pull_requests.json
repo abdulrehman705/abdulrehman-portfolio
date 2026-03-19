@@ -1,6 +1,56 @@
 {
   "data": [
     {
+      "id": "PR_kwDOQdhZAc7LdO_T",
+      "title": "feat: add location and its filter for doctor",
+      "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/67",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-03-18T08:03:35Z",
+      "number": 67,
+      "changedFiles": 1,
+      "additions": 119,
+      "deletions": 28,
+      "baseRepository": {
+        "name": "nurmed-frontend",
+        "url": "https://github.com/Nurmed-ai/nurmed-frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOQdhZAc7LdIbr",
+      "title": "handle rpa note and session loading",
+      "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/66",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-03-18T07:55:38Z",
+      "number": 66,
+      "changedFiles": 2,
+      "additions": 254,
+      "deletions": 54,
+      "baseRepository": {
+        "name": "nurmed-frontend",
+        "url": "https://github.com/Nurmed-ai/nurmed-frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOQpoANc7LNe6c",
       "title": "feat: add reset password integration",
       "url": "https://github.com/Ctrllaunch/fpa-admin-panel/pull/42",
@@ -10216,7 +10266,7 @@
     }
   ],
   "open": 1,
-  "merged": 401,
+  "merged": 403,
   "closed": 8,
-  "totalCount": 410
+  "totalCount": 412
 }
