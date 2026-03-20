@@ -1,6 +1,31 @@
 {
   "data": [
     {
+      "id": "PR_kwDOMcEDz87L8ARt",
+      "title": "Add LinkedIn badge to README",
+      "url": "https://github.com/abdulrehman705/abdulrehman705/pull/31",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-03-19T18:42:23Z",
+      "number": 31,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "abdulrehman705",
+        "url": "https://github.com/abdulrehman705/abdulrehman705",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+          "login": "abdulrehman705",
+          "url": "https://github.com/abdulrehman705"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOQdhZAc7LdO_T",
       "title": "feat: add location and its filter for doctor",
       "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/67",
@@ -10266,7 +10291,7 @@
     }
   ],
   "open": 1,
-  "merged": 403,
+  "merged": 404,
   "closed": 8,
-  "totalCount": 412
+  "totalCount": 413
 }
