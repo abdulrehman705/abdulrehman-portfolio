@@ -1,6 +1,31 @@
 {
   "data": [
     {
+      "id": "PR_kwDOMcEDz87MYigK",
+      "title": "Update README.md",
+      "url": "https://github.com/abdulrehman705/abdulrehman705/pull/32",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-03-21T17:50:10Z",
+      "number": 32,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "abdulrehman705",
+        "url": "https://github.com/abdulrehman705/abdulrehman705",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+          "login": "abdulrehman705",
+          "url": "https://github.com/abdulrehman705"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOMcEDz87L8ARt",
       "title": "Add LinkedIn badge to README",
       "url": "https://github.com/abdulrehman705/abdulrehman705/pull/31",
@@ -10291,7 +10316,7 @@
     }
   ],
   "open": 1,
-  "merged": 404,
+  "merged": 405,
   "closed": 8,
-  "totalCount": 413
+  "totalCount": 414
 }
