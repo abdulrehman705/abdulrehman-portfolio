@@ -1,6 +1,327 @@
 {
   "data": [
     {
+      "id": "PR_kwDOOb9xTs7NxfGe",
+      "title": "Staging",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/151",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-03-26T15:50:13Z",
+      "number": 151,
+      "changedFiles": 10,
+      "additions": 98,
+      "deletions": 24,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOb9xTs7NxeTt",
+      "title": "disable manuscript step when regenerating plot outline",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/150",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-03-26T15:49:31Z",
+      "number": 150,
+      "changedFiles": 1,
+      "additions": 14,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOb9xTs7NwpVS",
+      "title": "make consisten step locks in footer when regenrating",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/149",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-03-26T15:09:14Z",
+      "number": 149,
+      "changedFiles": 8,
+      "additions": 35,
+      "deletions": 8,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOb9xTs7NvxE5",
+      "title": "fix footer setps lock issue and mnauscript modal double deduction issue",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/148",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-03-26T14:32:56Z",
+      "number": 148,
+      "changedFiles": 3,
+      "additions": 49,
+      "deletions": 12,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMbdHIc7NtYc7",
+      "title": "check for private and public campagins normalized",
+      "url": "https://github.com/stablestakesiq/gos-backend/pull/1216",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-03-26T12:51:15Z",
+      "number": 1216,
+      "changedFiles": 2,
+      "additions": 30,
+      "deletions": 33,
+      "baseRepository": {
+        "name": "gos-backend",
+        "url": "https://github.com/stablestakesiq/gos-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188860703?v=4",
+          "login": "stablestakesiq",
+          "url": "https://github.com/stablestakesiq"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMbdHIc7NtBih",
+      "title": "handle publci and private campagin scenario",
+      "url": "https://github.com/stablestakesiq/gos-backend/pull/1215",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-03-26T12:35:27Z",
+      "number": 1215,
+      "changedFiles": 2,
+      "additions": 54,
+      "deletions": 5,
+      "baseRepository": {
+        "name": "gos-backend",
+        "url": "https://github.com/stablestakesiq/gos-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188860703?v=4",
+          "login": "stablestakesiq",
+          "url": "https://github.com/stablestakesiq"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMbiNKc7NsxuN",
+      "title": "add campagin banners",
+      "url": "https://github.com/stablestakesiq/gos-player/pull/1107",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-03-26T12:24:53Z",
+      "number": 1107,
+      "changedFiles": 5,
+      "additions": 372,
+      "deletions": 11,
+      "baseRepository": {
+        "name": "gos-player",
+        "url": "https://github.com/stablestakesiq/gos-player",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188860703?v=4",
+          "login": "stablestakesiq",
+          "url": "https://github.com/stablestakesiq"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMbdHIc7Nsnms",
+      "title": "add new campagin flow for players",
+      "url": "https://github.com/stablestakesiq/gos-backend/pull/1214",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-03-26T12:17:51Z",
+      "number": 1214,
+      "changedFiles": 1,
+      "additions": 150,
+      "deletions": 64,
+      "baseRepository": {
+        "name": "gos-backend",
+        "url": "https://github.com/stablestakesiq/gos-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188860703?v=4",
+          "login": "stablestakesiq",
+          "url": "https://github.com/stablestakesiq"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMbdJks7Nsl2t",
+      "title": "add new campagin tag flow on player management route",
+      "url": "https://github.com/stablestakesiq/gos-admin/pull/193",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-03-26T12:16:42Z",
+      "number": 193,
+      "changedFiles": 1,
+      "additions": 29,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "gos-admin",
+        "url": "https://github.com/stablestakesiq/gos-admin",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188860703?v=4",
+          "login": "stablestakesiq",
+          "url": "https://github.com/stablestakesiq"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMbdJks7Noha1",
+      "title": "add partner logo and campagin tags for seasons",
+      "url": "https://github.com/stablestakesiq/gos-admin/pull/192",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-03-26T08:50:42Z",
+      "number": 192,
+      "changedFiles": 9,
+      "additions": 412,
+      "deletions": 30,
+      "baseRepository": {
+        "name": "gos-admin",
+        "url": "https://github.com/stablestakesiq/gos-admin",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188860703?v=4",
+          "login": "stablestakesiq",
+          "url": "https://github.com/stablestakesiq"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMbdJks7NohGE",
+      "title": "Aby/feat create edit campagin/ssn 158",
+      "url": "https://github.com/stablestakesiq/gos-admin/pull/191",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2026-03-26T08:50:28Z",
+      "number": 191,
+      "changedFiles": 22,
+      "additions": 6309,
+      "deletions": 184,
+      "baseRepository": {
+        "name": "gos-admin",
+        "url": "https://github.com/stablestakesiq/gos-admin",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188860703?v=4",
+          "login": "stablestakesiq",
+          "url": "https://github.com/stablestakesiq"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMbdHIc7NogcS",
+      "title": "add s3 upload and partner logo plus campagin tags feature",
+      "url": "https://github.com/stablestakesiq/gos-backend/pull/1213",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-03-26T08:49:51Z",
+      "number": 1213,
+      "changedFiles": 16,
+      "additions": 16623,
+      "deletions": 12199,
+      "baseRepository": {
+        "name": "gos-backend",
+        "url": "https://github.com/stablestakesiq/gos-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188860703?v=4",
+          "login": "stablestakesiq",
+          "url": "https://github.com/stablestakesiq"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOb9xTs7NoXjq",
+      "title": "staging move prod with latest changes",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/147",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-03-26T08:42:11Z",
+      "number": 147,
+      "changedFiles": 9,
+      "additions": 340,
+      "deletions": 108,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOQdhZAc7NBmys",
       "title": "fix typo for signup",
       "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/70",
@@ -10440,8 +10761,8 @@
       }
     }
   ],
-  "open": 1,
-  "merged": 410,
+  "open": 2,
+  "merged": 422,
   "closed": 8,
-  "totalCount": 419
+  "totalCount": 432
 }
