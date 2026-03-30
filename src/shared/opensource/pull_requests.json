@@ -1,6 +1,31 @@
 {
   "data": [
     {
+      "id": "PR_kwDOMbdHIc7OiTSK",
+      "title": "add jpg type to s3 allowed types",
+      "url": "https://github.com/stablestakesiq/gos-backend/pull/1219",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-03-30T08:32:57Z",
+      "number": 1219,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "gos-backend",
+        "url": "https://github.com/stablestakesiq/gos-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188860703?v=4",
+          "login": "stablestakesiq",
+          "url": "https://github.com/stablestakesiq"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOOpHWnM7OKTvl",
       "title": "Update README.md",
       "url": "https://github.com/abdulrehman705/money-mind/pull/8",
@@ -10812,7 +10837,7 @@
     }
   ],
   "open": 2,
-  "merged": 424,
+  "merged": 425,
   "closed": 8,
-  "totalCount": 434
+  "totalCount": 435
 }
