@@ -371,11 +371,48 @@ const degrees = {
   ],
 };
 
+const anthropicLogo = process.env.PUBLIC_URL + "/images/anthropic.png";
 const courseraLogo = process.env.PUBLIC_URL + "/images/coursera_logo.png";
 const hpLifeLogo = process.env.PUBLIC_URL + "/images/hp_life_logo.jpg";
 
 const certifications = {
   certifications: [
+    {
+      title: "Introduction to agent skills",
+      subtitle: "- Anthropic",
+      logo_path: anthropicLogo,
+      certificate_link:
+        "https://verify.skilljar.com/c/5wiyu2u3git3",
+      alt_name: "Anthropic",
+      color_code: "transparent",
+    },
+    {
+      title: "Building with the Claude API",
+      subtitle: "- Anthropic",
+      logo_path: anthropicLogo,
+      certificate_link:
+        "https://verify.skilljar.com/c/9b5pvi677xd6",
+      alt_name: "Anthropic",
+      color_code: "transparent",
+    },
+    {
+      title: "Introduction to Model Context Protocol",
+      subtitle: "- Anthropic",
+      logo_path: anthropicLogo,
+      certificate_link:
+        "https://verify.skilljar.com/c/5btbfrwuk636",
+      alt_name: "Anthropic",
+      color_code: "transparent",
+    },
+    {
+      title: "Claude Code in Action",
+      subtitle: "- Anthropic",
+      logo_path: anthropicLogo,
+      certificate_link:
+        "https://verify.skilljar.com/c/zybrvh5i5gck",
+      alt_name: "Anthropic",
+      color_code: "transparent",
+    },
     {
       title: "Foundations of Cybersecurity",
       subtitle: "- Coursera",
