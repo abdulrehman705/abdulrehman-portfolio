@@ -1,6 +1,46 @@
 {
   "data": [
     {
+      "id": "I_kwDOOpHWnM73vR7V",
+      "title": "a new issue founded",
+      "url": "https://github.com/abdulrehman705/money-mind/issues/14",
+      "createdAt": "2026-03-27T22:58:23Z",
+      "closed": true,
+      "number": 14,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "money-mind",
+        "url": "https://github.com/abdulrehman705/money-mind",
+        "owner": {
+          "login": "abdulrehman705",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+          "url": "https://github.com/abdulrehman705"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOOpHWnM73vRFa",
+      "title": "update the cash flow",
+      "url": "https://github.com/abdulrehman705/money-mind/issues/13",
+      "createdAt": "2026-03-27T22:57:16Z",
+      "closed": true,
+      "number": 13,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "money-mind",
+        "url": "https://github.com/abdulrehman705/money-mind",
+        "owner": {
+          "login": "abdulrehman705",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+          "url": "https://github.com/abdulrehman705"
+        }
+      }
+    },
+    {
       "id": "I_kwDOHqa7Ps7XgyGO",
       "title": "[Quickdraw] I am here to learn how to open and close issues on Github! 🤠",
       "url": "https://github.com/Puliczek/github-achievements-academy/issues/5760",
@@ -166,6 +206,6 @@
     }
   ],
   "open": 0,
-  "closed": 7,
-  "totalCount": 7
+  "closed": 9,
+  "totalCount": 9
 }
