@@ -440,15 +440,6 @@ const certifications = {
       color_code: "transparent",
     },
     {
-      title: "Foundations of Cybersecurity",
-      subtitle: "- Coursera",
-      logo_path: courseraLogo,
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/E9V7XR7TNXH2",
-      alt_name: "Coursera",
-      color_code: "transparent",
-    },
-    {
       title: "Critical Thinking in the AI Era",
       subtitle: "- HP Life Global",
       logo_path: hpLifeLogo,
