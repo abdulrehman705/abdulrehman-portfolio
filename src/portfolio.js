@@ -306,6 +306,14 @@ const skills = {
 const competitiveSites = {
   competitiveSites: [
     {
+      siteName: "Anthropic",
+      iconifyClassname: "simple-icons:anthropic",
+      style: {
+        color: "#000000",
+      },
+      profileLink: "https://www.anthropic.com",
+    },
+    {
       siteName: "Coursera",
       iconifyClassname: "simple-icons:coursera",
       style: {
