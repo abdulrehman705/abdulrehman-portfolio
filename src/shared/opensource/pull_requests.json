@@ -1,6 +1,56 @@
 {
   "data": [
     {
+      "id": "PR_kwDOQg7H587PnCiv",
+      "title": "add additional fields in billing and preview invoice option",
+      "url": "https://github.com/Nurmed-ai/nurmed-admin-panel/pull/41",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-04-02T16:25:56Z",
+      "number": 41,
+      "changedFiles": 6,
+      "additions": 635,
+      "deletions": 337,
+      "baseRepository": {
+        "name": "nurmed-admin-panel",
+        "url": "https://github.com/Nurmed-ai/nurmed-admin-panel",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOQdhZAc7PjH0q",
+      "title": "move latest changes to dubai branch",
+      "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/72",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-04-02T12:38:18Z",
+      "number": 72,
+      "changedFiles": 13,
+      "additions": 1078,
+      "deletions": 109,
+      "baseRepository": {
+        "name": "nurmed-frontend",
+        "url": "https://github.com/Nurmed-ai/nurmed-frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOMbiNKc7PPJhP",
       "title": "Aby/feat create edit campagin/ssn 158",
       "url": "https://github.com/stablestakesiq/gos-player/pull/1114",
@@ -33,8 +83,8 @@
       "mergedBy": null,
       "createdAt": "2026-04-01T08:34:02Z",
       "number": 71,
-      "changedFiles": 16,
-      "additions": 1465,
+      "changedFiles": 17,
+      "additions": 1470,
       "deletions": 213,
       "baseRepository": {
         "name": "nurmed-frontend",
@@ -10983,7 +11033,7 @@
     }
   ],
   "open": 2,
-  "merged": 430,
+  "merged": 432,
   "closed": 9,
-  "totalCount": 441
+  "totalCount": 443
 }
