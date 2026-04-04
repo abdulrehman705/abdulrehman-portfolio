@@ -1,6 +1,181 @@
 {
   "data": [
     {
+      "id": "PR_kwDOQdhZAc7P0kKY",
+      "title": "feat: integrate amharic language and eleven lab configration",
+      "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/75",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-04-03T15:21:58Z",
+      "number": 75,
+      "changedFiles": 5,
+      "additions": 492,
+      "deletions": 59,
+      "baseRepository": {
+        "name": "nurmed-frontend",
+        "url": "https://github.com/Nurmed-ai/nurmed-frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOQdhZAc7PyouW",
+      "title": "update view full note template",
+      "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/74",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-04-03T12:23:39Z",
+      "number": 74,
+      "changedFiles": 1,
+      "additions": 98,
+      "deletions": 207,
+      "baseRepository": {
+        "name": "nurmed-frontend",
+        "url": "https://github.com/Nurmed-ai/nurmed-frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOQdhZAc7Pynp2",
+      "title": "fix: update view fullnote template",
+      "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/73",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-04-03T12:21:49Z",
+      "number": 73,
+      "changedFiles": 1,
+      "additions": 98,
+      "deletions": 207,
+      "baseRepository": {
+        "name": "nurmed-frontend",
+        "url": "https://github.com/Nurmed-ai/nurmed-frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOQg7H587Pyg7M",
+      "title": "Staging",
+      "url": "https://github.com/Nurmed-ai/nurmed-admin-panel/pull/43",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-04-03T12:10:29Z",
+      "number": 43,
+      "changedFiles": 6,
+      "additions": 650,
+      "deletions": 354,
+      "baseRepository": {
+        "name": "nurmed-admin-panel",
+        "url": "https://github.com/Nurmed-ai/nurmed-admin-panel",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOQg7H587Pygl2",
+      "title": "always show current month",
+      "url": "https://github.com/Nurmed-ai/nurmed-admin-panel/pull/42",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-04-03T12:09:54Z",
+      "number": 42,
+      "changedFiles": 2,
+      "additions": 16,
+      "deletions": 18,
+      "baseRepository": {
+        "name": "nurmed-admin-panel",
+        "url": "https://github.com/Nurmed-ai/nurmed-admin-panel",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMbiNKc7PyZEV",
+      "title": "fix typescript error",
+      "url": "https://github.com/stablestakesiq/gos-player/pull/1120",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-04-03T11:57:01Z",
+      "number": 1120,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "gos-player",
+        "url": "https://github.com/stablestakesiq/gos-player",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188860703?v=4",
+          "login": "stablestakesiq",
+          "url": "https://github.com/stablestakesiq"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMbiNKc7Pvu_L",
+      "title": "add banner for campagins in seanson leaderboard modal",
+      "url": "https://github.com/stablestakesiq/gos-player/pull/1118",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-04-03T07:31:33Z",
+      "number": 1118,
+      "changedFiles": 2,
+      "additions": 25,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "gos-player",
+        "url": "https://github.com/stablestakesiq/gos-player",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188860703?v=4",
+          "login": "stablestakesiq",
+          "url": "https://github.com/stablestakesiq"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOQg7H587PnCiv",
       "title": "add additional fields in billing and preview invoice option",
       "url": "https://github.com/Nurmed-ai/nurmed-admin-panel/pull/41",
@@ -79,8 +254,12 @@
       "id": "PR_kwDOQdhZAc7PLx5V",
       "title": "Move latest changes to production",
       "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/71",
-      "state": "OPEN",
-      "mergedBy": null,
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
       "createdAt": "2026-04-01T08:34:02Z",
       "number": 71,
       "changedFiles": 17,
@@ -11032,8 +11211,8 @@
       }
     }
   ],
-  "open": 2,
-  "merged": 432,
+  "open": 1,
+  "merged": 440,
   "closed": 9,
-  "totalCount": 443
+  "totalCount": 450
 }
