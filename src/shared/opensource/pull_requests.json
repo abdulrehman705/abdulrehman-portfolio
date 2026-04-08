@@ -1,6 +1,31 @@
 {
   "data": [
     {
+      "id": "PR_kwDOQpoANc7QaHJf",
+      "title": "Staging",
+      "url": "https://github.com/Ctrllaunch/fpa-admin-panel/pull/44",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=5f8ac5ee9d5eda20f6ca0199a88995bd3ad1f666&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-04-07T06:57:59Z",
+      "number": 44,
+      "changedFiles": 2,
+      "additions": 29,
+      "deletions": 23,
+      "baseRepository": {
+        "name": "fpa-admin-panel",
+        "url": "https://github.com/Ctrllaunch/fpa-admin-panel",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOMbdJks7QJ7cx",
       "title": "fixed positions ui in campaign modal",
       "url": "https://github.com/stablestakesiq/gos-admin/pull/205",
@@ -11237,7 +11262,7 @@
     }
   ],
   "open": 1,
-  "merged": 441,
+  "merged": 442,
   "closed": 9,
-  "totalCount": 451
+  "totalCount": 452
 }
