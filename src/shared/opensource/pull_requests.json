@@ -1,6 +1,52 @@
 {
   "data": [
     {
+      "id": "PR_kwDOOb9xTs7Stn0J",
+      "title": "feat: integrate chat and history version feature",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/153",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-04-15T17:03:36Z",
+      "number": 153,
+      "changedFiles": 29,
+      "additions": 2362,
+      "deletions": 196,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOQdhZAc7SrUrv",
+      "title": "Amharic integration remove transcription and add old record and upload audio audio functionality",
+      "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/76",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2026-04-15T14:47:12Z",
+      "number": 76,
+      "changedFiles": 13,
+      "additions": 1008,
+      "deletions": 583,
+      "baseRepository": {
+        "name": "nurmed-frontend",
+        "url": "https://github.com/Nurmed-ai/nurmed-frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOMbdHIc7RINF3",
       "title": "fix 500 error for names api",
       "url": "https://github.com/stablestakesiq/gos-backend/pull/1233",
@@ -11361,8 +11407,8 @@
       }
     }
   ],
-  "open": 1,
-  "merged": 446,
+  "open": 2,
+  "merged": 447,
   "closed": 9,
-  "totalCount": 456
+  "totalCount": 458
 }
