@@ -11,6 +11,11 @@
       "__typename": "Organization"
     },
     {
+      "login": "Tallysis",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/276624539?v=4",
+      "__typename": "Organization"
+    },
+    {
       "login": "Ctrllaunch",
       "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
       "__typename": "Organization"
