@@ -1,6 +1,31 @@
 {
   "data": [
     {
+      "id": "PR_kwDOMbdHIc7TRtua",
+      "title": "Feat/contest banners",
+      "url": "https://github.com/stablestakesiq/gos-backend/pull/1242",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-04-17T10:27:09Z",
+      "number": 1242,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "gos-backend",
+        "url": "https://github.com/stablestakesiq/gos-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188860703?v=4",
+          "login": "stablestakesiq",
+          "url": "https://github.com/stablestakesiq"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOMbdJks7S_h47",
       "title": "Enhance Contest Creation and Form Components with Banner Upload Funct…",
       "url": "https://github.com/stablestakesiq/gos-admin/pull/219",
@@ -9094,31 +9119,6 @@
       }
     },
     {
-      "id": "PR_kwDOQRC_O86zR763",
-      "title": "Update README.md",
-      "url": "https://github.com/alihamzanasir/version/pull/14",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?v=4",
-        "url": "https://github.com/abdulrehman705",
-        "login": "abdulrehman705"
-      },
-      "createdAt": "2025-11-13T17:54:23Z",
-      "number": 14,
-      "changedFiles": 1,
-      "additions": 2,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "version",
-        "url": "https://github.com/alihamzanasir/version",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/155153743?u=0af8dfa8cc8ea25ec8d6f1d5f27a99cbaa360d77&v=4",
-          "login": "alihamzanasir",
-          "url": "https://github.com/alihamzanasir"
-        }
-      }
-    },
-    {
       "id": "PR_kwDOOE9WRs6zQClo",
       "title": "Update filters for doctor detail page.",
       "url": "https://github.com/Ctrllaunch/nurmed-frontend/pull/74",
@@ -9165,56 +9165,6 @@
           "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
           "login": "Ctrllaunch",
           "url": "https://github.com/Ctrllaunch"
-        }
-      }
-    },
-    {
-      "id": "PR_kwDOQRC_O86y75XU",
-      "title": "Update README.md",
-      "url": "https://github.com/alihamzanasir/version/pull/11",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?v=4",
-        "url": "https://github.com/abdulrehman705",
-        "login": "abdulrehman705"
-      },
-      "createdAt": "2025-11-12T09:20:46Z",
-      "number": 11,
-      "changedFiles": 1,
-      "additions": 0,
-      "deletions": 1,
-      "baseRepository": {
-        "name": "version",
-        "url": "https://github.com/alihamzanasir/version",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/155153743?u=0af8dfa8cc8ea25ec8d6f1d5f27a99cbaa360d77&v=4",
-          "login": "alihamzanasir",
-          "url": "https://github.com/alihamzanasir"
-        }
-      }
-    },
-    {
-      "id": "PR_kwDOQRC_O86y711k",
-      "title": "Update README.md",
-      "url": "https://github.com/alihamzanasir/version/pull/10",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?v=4",
-        "url": "https://github.com/abdulrehman705",
-        "login": "abdulrehman705"
-      },
-      "createdAt": "2025-11-12T09:16:28Z",
-      "number": 10,
-      "changedFiles": 1,
-      "additions": 1,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "version",
-        "url": "https://github.com/alihamzanasir/version",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/155153743?u=0af8dfa8cc8ea25ec8d6f1d5f27a99cbaa360d77&v=4",
-          "login": "alihamzanasir",
-          "url": "https://github.com/alihamzanasir"
         }
       }
     },
@@ -9290,31 +9240,6 @@
           "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
           "login": "Ctrllaunch",
           "url": "https://github.com/Ctrllaunch"
-        }
-      }
-    },
-    {
-      "id": "PR_kwDOQRC_O86yIK2l",
-      "title": "Update README.md",
-      "url": "https://github.com/alihamzanasir/version/pull/7",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?v=4",
-        "url": "https://github.com/abdulrehman705",
-        "login": "abdulrehman705"
-      },
-      "createdAt": "2025-11-07T12:43:52Z",
-      "number": 7,
-      "changedFiles": 1,
-      "additions": 1,
-      "deletions": 1,
-      "baseRepository": {
-        "name": "version",
-        "url": "https://github.com/alihamzanasir/version",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/155153743?u=0af8dfa8cc8ea25ec8d6f1d5f27a99cbaa360d77&v=4",
-          "login": "alihamzanasir",
-          "url": "https://github.com/alihamzanasir"
         }
       }
     },
@@ -11558,7 +11483,7 @@
     }
   ],
   "open": 2,
-  "merged": 453,
+  "merged": 450,
   "closed": 9,
-  "totalCount": 464
+  "totalCount": 461
 }
