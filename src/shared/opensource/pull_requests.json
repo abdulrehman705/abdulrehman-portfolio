@@ -1,6 +1,56 @@
 {
   "data": [
     {
+      "id": "PR_kwDOMbiNKc7UV14Y",
+      "title": "Add PWA icons and update branding references",
+      "url": "https://github.com/stablestakesiq/gos-player/pull/1163",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-04-21T14:56:01Z",
+      "number": 1163,
+      "changedFiles": 17,
+      "additions": 74,
+      "deletions": 87,
+      "baseRepository": {
+        "name": "gos-player",
+        "url": "https://github.com/stablestakesiq/gos-player",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188860703?v=4",
+          "login": "stablestakesiq",
+          "url": "https://github.com/stablestakesiq"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMbiNKc7UULbO",
+      "title": "Feat/campaigntag params",
+      "url": "https://github.com/stablestakesiq/gos-player/pull/1162",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-04-21T13:34:39Z",
+      "number": 1162,
+      "changedFiles": 14,
+      "additions": 831,
+      "deletions": 183,
+      "baseRepository": {
+        "name": "gos-player",
+        "url": "https://github.com/stablestakesiq/gos-player",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188860703?v=4",
+          "login": "stablestakesiq",
+          "url": "https://github.com/stablestakesiq"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOMbdHIc7TRtua",
       "title": "Feat/contest banners",
       "url": "https://github.com/stablestakesiq/gos-backend/pull/1242",
@@ -11583,7 +11633,7 @@
     }
   ],
   "open": 2,
-  "merged": 454,
+  "merged": 456,
   "closed": 9,
-  "totalCount": 465
+  "totalCount": 467
 }
