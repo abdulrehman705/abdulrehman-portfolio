@@ -1,6 +1,77 @@
 {
   "data": [
     {
+      "id": "PR_kwDOOb9xTs7WxFta",
+      "title": "refactor: add debugging logs and update regeneration credits display …",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/159",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-04-29T15:05:33Z",
+      "number": 159,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOQdhZAc7WwW4r",
+      "title": "Staging to prod",
+      "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/77",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-04-29T14:35:32Z",
+      "number": 77,
+      "changedFiles": 13,
+      "additions": 1265,
+      "deletions": 171,
+      "baseRepository": {
+        "name": "nurmed-frontend",
+        "url": "https://github.com/Nurmed-ai/nurmed-frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOQddbL87WsMp6",
+      "title": "Nurmed dubai",
+      "url": "https://github.com/Nurmed-ai/nurmed-backend/pull/340",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2026-04-29T11:24:53Z",
+      "number": 340,
+      "changedFiles": 64,
+      "additions": 2198,
+      "deletions": 798,
+      "baseRepository": {
+        "name": "nurmed-backend",
+        "url": "https://github.com/Nurmed-ai/nurmed-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOOb9xTs7WUrcZ",
       "title": "feat: implement plot overview revision and version management feature…",
       "url": "https://github.com/Ctrllaunch/fpa-app/pull/158",
@@ -79,13 +150,17 @@
       "id": "PR_kwDOOb9xTs7UqxYU",
       "title": "Staging",
       "url": "https://github.com/Ctrllaunch/fpa-app/pull/155",
-      "state": "OPEN",
-      "mergedBy": null,
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
       "createdAt": "2026-04-22T15:01:28Z",
       "number": 155,
-      "changedFiles": 44,
-      "additions": 5463,
-      "deletions": 532,
+      "changedFiles": 51,
+      "additions": 5650,
+      "deletions": 579,
       "baseRepository": {
         "name": "fpa-app",
         "url": "https://github.com/Ctrllaunch/fpa-app",
@@ -11728,8 +11803,8 @@
       }
     }
   ],
-  "open": 3,
-  "merged": 459,
-  "closed": 9,
-  "totalCount": 471
+  "open": 2,
+  "merged": 462,
+  "closed": 10,
+  "totalCount": 474
 }
