@@ -1,6 +1,677 @@
 {
   "data": [
     {
+      "id": "PR_kwDOOb9xTs7XjQ_B",
+      "title": "refactor: split libs/apis/api.ts into per-feature modules under src/l…",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/166",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T23:06:57Z",
+      "number": 166,
+      "changedFiles": 33,
+      "additions": 816,
+      "deletions": 745,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOb9xTs7XjH_X",
+      "title": "chore: add architecture, agent, and prompt-history scaffolding",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/165",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T22:49:29Z",
+      "number": 165,
+      "changedFiles": 16,
+      "additions": 895,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOSBQmV87XiBmI",
+      "title": "docs: add architecture/IMPLEMENTATION_GUIDE.md",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/22",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T21:01:02Z",
+      "number": 22,
+      "changedFiles": 2,
+      "additions": 1147,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOSBQmV87Xhy59",
+      "title": "chore(lint): enforce API/feature conventions via ESLint + add ADRs 00…",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/21",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T20:42:07Z",
+      "number": 21,
+      "changedFiles": 13,
+      "additions": 394,
+      "deletions": 93,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOSBQmV87Xhi5p",
+      "title": "refactor(scribe): split ScribeView monolith (1345 → 385 lines)",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/20",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T20:25:38Z",
+      "number": 20,
+      "changedFiles": 13,
+      "additions": 2016,
+      "deletions": 1223,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOSBQmV87XhI_Z",
+      "title": "refactor(sessions): split SessionDetailView monolith (1459 → 309 lines)",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/19",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T19:55:44Z",
+      "number": 19,
+      "changedFiles": 14,
+      "additions": 1859,
+      "deletions": 1320,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOSBQmV87Xg8YU",
+      "title": "refactor(evidence): split EvidenceView monolith (1426 → 219 lines)",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/18",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T19:40:34Z",
+      "number": 18,
+      "changedFiles": 12,
+      "additions": 1767,
+      "deletions": 1345,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOSBQmV87XghAB",
+      "title": "refactor(sessions): migrate to src/features/sessions/",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/17",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T19:07:46Z",
+      "number": 17,
+      "changedFiles": 14,
+      "additions": 52,
+      "deletions": 15,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOSBQmV87XdzRA",
+      "title": "refactor(evidence): migrate to src/features/evidence/",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/16",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T16:05:14Z",
+      "number": 16,
+      "changedFiles": 4,
+      "additions": 3,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOSBQmV87XdtTh",
+      "title": "refactor(scribe): migrate to src/features/scribe/",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/15",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T15:59:24Z",
+      "number": 15,
+      "changedFiles": 12,
+      "additions": 7,
+      "deletions": 5,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOSBQmV87XdpKb",
+      "title": "refactor(views): migrate orphan src/views/ files into feature folders",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/14",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T15:54:58Z",
+      "number": 14,
+      "changedFiles": 6,
+      "additions": 6,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOSBQmV87Xdmbs",
+      "title": "refactor(settings): migrate to src/features/settings/",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/13",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T15:51:52Z",
+      "number": 13,
+      "changedFiles": 13,
+      "additions": 2,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOSBQmV87XdkzJ",
+      "title": "refactor(library, coding, templates): migrate to src/features/",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/12",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T15:50:08Z",
+      "number": 12,
+      "changedFiles": 17,
+      "additions": 35,
+      "deletions": 13,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOSBQmV87XdddW",
+      "title": "refactor(help, notifications): migrate to src/features/",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/11",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T15:43:53Z",
+      "number": 11,
+      "changedFiles": 6,
+      "additions": 4,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOSBQmV87XdQwb",
+      "title": "refactor(billing): migrate to src/features/billing/ pilot",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/10",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T15:31:30Z",
+      "number": 10,
+      "changedFiles": 4,
+      "additions": 115,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOSBQmV87XdGVd",
+      "title": "refactor(evidence): move inline fetcher() calls into typed API modules",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T15:20:41Z",
+      "number": 9,
+      "changedFiles": 3,
+      "additions": 172,
+      "deletions": 102,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOb9xTs7Xcw9h",
+      "title": "refactor: streamline chapter completion logic in FinalContent and Fin…",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/164",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T15:02:31Z",
+      "number": 164,
+      "changedFiles": 2,
+      "additions": 47,
+      "deletions": 79,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOSBQmV87Xcv6l",
+      "title": "chore: gitignore tsconfig.tsbuildinfo and untrack from index",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T15:01:39Z",
+      "number": 8,
+      "changedFiles": 2,
+      "additions": 3,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOSBQmV87Xcsul",
+      "title": "refactor(lib): migrate API modules to apiClient + endpoints",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T14:58:42Z",
+      "number": 7,
+      "changedFiles": 7,
+      "additions": 44,
+      "deletions": 46,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOSBQmV87XchSe",
+      "title": "docs: add .agent/rules.md consolidating project + universal rules",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T14:48:07Z",
+      "number": 6,
+      "changedFiles": 2,
+      "additions": 199,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOSBQmV87XcY7k",
+      "title": "feat(api): introduce central src/api/ HTTP layer",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T14:39:13Z",
+      "number": 5,
+      "changedFiles": 5,
+      "additions": 238,
+      "deletions": 152,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOSBQmV87XcSxO",
+      "title": "chore: rename src/contant → src/constants",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T14:32:17Z",
+      "number": 4,
+      "changedFiles": 6,
+      "additions": 4,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOSBQmV87XcMhe",
+      "title": "chore: remove non-pnpm lockfiles and dead src/auth/ directory",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T14:25:15Z",
+      "number": 3,
+      "changedFiles": 4,
+      "additions": 3,
+      "deletions": 8611,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOSBQmV87XcIVe",
+      "title": "chore: scaffold project conventions and architecture docs",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T14:20:13Z",
+      "number": 2,
+      "changedFiles": 11,
+      "additions": 715,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOSBQmV87Xb5za",
+      "title": "chore: scaffold .agent/, architecture/, docs/ for project conventions",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/1",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2026-05-01T14:03:17Z",
+      "number": 1,
+      "changedFiles": 11,
+      "additions": 715,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOb9xTs7XZ9xO",
+      "title": "refactor: simplify download logic in FinalDraft component to ensure a…",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/163",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T11:28:34Z",
+      "number": 163,
+      "changedFiles": 1,
+      "additions": 9,
+      "deletions": 19,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOb9xTs7XYJtJ",
+      "title": "Staging",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/162",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-01T08:35:49Z",
+      "number": 162,
+      "changedFiles": 8,
+      "additions": 357,
+      "deletions": 52,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOOb9xTs7XCYTY",
       "title": "refactor: enhance access token management in fetcher and useAuth hook…",
       "url": "https://github.com/Ctrllaunch/fpa-app/pull/161",
@@ -11854,7 +12525,7 @@
     }
   ],
   "open": 2,
-  "merged": 464,
-  "closed": 10,
-  "totalCount": 476
+  "merged": 490,
+  "closed": 11,
+  "totalCount": 503
 }
