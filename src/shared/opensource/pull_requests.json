@@ -1,6 +1,131 @@
 {
   "data": [
     {
+      "id": "PR_kwDOOb9xTs7XpMOx",
+      "title": "chore: cleanup pass — typo, dead code, PII-leaking debug logs",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/171",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-02T13:24:23Z",
+      "number": 171,
+      "changedFiles": 10,
+      "additions": 59,
+      "deletions": 470,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOb9xTs7Xoczm",
+      "title": "refactor: remove Redux — React Query owns session state (ADR 0002)",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/170",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-02T11:15:00Z",
+      "number": 170,
+      "changedFiles": 11,
+      "additions": 113,
+      "deletions": 201,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOb9xTs7XoZUz",
+      "title": "refactor: empty app/constant, app/context, app/types — consolidate in…",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/169",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-02T11:04:24Z",
+      "number": 169,
+      "changedFiles": 67,
+      "additions": 136,
+      "deletions": 102,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOb9xTs7XoU1p",
+      "title": "refactor: split libs/ into lib/ (infra) and features/ (business logic)",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/168",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-02T10:51:19Z",
+      "number": 168,
+      "changedFiles": 131,
+      "additions": 200,
+      "deletions": 164,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOb9xTs7XoNCh",
+      "title": "refactor: reorganize src/app/component into src/components by feature",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/167",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-02T10:26:35Z",
+      "number": 167,
+      "changedFiles": 110,
+      "additions": 266,
+      "deletions": 416,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOOb9xTs7XjQ_B",
       "title": "refactor: split libs/apis/api.ts into per-feature modules under src/l…",
       "url": "https://github.com/Ctrllaunch/fpa-app/pull/166",
@@ -12525,7 +12650,7 @@
     }
   ],
   "open": 2,
-  "merged": 490,
+  "merged": 495,
   "closed": 11,
-  "totalCount": 503
+  "totalCount": 508
 }
