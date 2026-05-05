@@ -1,16 +1,95 @@
 {
   "data": [
     {
+      "id": "PR_kwDOOb9xTs7YFhds",
+      "title": "Refactor architecture and consolidate API, components, and state management",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/176",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-04T16:36:29Z",
+      "number": 176,
+      "changedFiles": 220,
+      "additions": 2736,
+      "deletions": 4379,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOb9xTs7YEzYw",
+      "title": "Ref/staging",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/175",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-04T15:51:24Z",
+      "number": 175,
+      "changedFiles": 220,
+      "additions": 2736,
+      "deletions": 4379,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOb9xTs7YExoP",
+      "title": "Chore/console log audit",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/174",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-04T15:50:06Z",
+      "number": 174,
+      "changedFiles": 4,
+      "additions": 113,
+      "deletions": 10,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOOb9xTs7XwEu2",
       "title": "chore: prune debug-leftover console.log calls (audit pass)",
       "url": "https://github.com/Ctrllaunch/fpa-app/pull/173",
-      "state": "OPEN",
-      "mergedBy": null,
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
       "createdAt": "2026-05-03T09:11:43Z",
       "number": 173,
-      "changedFiles": 11,
-      "additions": 88,
-      "deletions": 79,
+      "changedFiles": 9,
+      "additions": 70,
+      "deletions": 76,
       "baseRepository": {
         "name": "fpa-app",
         "url": "https://github.com/Ctrllaunch/fpa-app",
@@ -12695,8 +12774,8 @@
       }
     }
   ],
-  "open": 3,
-  "merged": 496,
+  "open": 2,
+  "merged": 500,
   "closed": 11,
-  "totalCount": 510
+  "totalCount": 513
 }
