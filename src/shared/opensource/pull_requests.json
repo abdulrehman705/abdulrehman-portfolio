@@ -1,6 +1,102 @@
 {
   "data": [
     {
+      "id": "PR_kwDOQdhZAc7YyFMc",
+      "title": "Staging v2",
+      "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/78",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2026-05-06T13:25:40Z",
+      "number": 78,
+      "changedFiles": 93,
+      "additions": 17130,
+      "deletions": 1658,
+      "baseRepository": {
+        "name": "nurmed-frontend",
+        "url": "https://github.com/Nurmed-ai/nurmed-frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMbiNKc7YvUYh",
+      "title": "Feat/spend promo",
+      "url": "https://github.com/stablestakesiq/gos-player/pull/1189",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-06T11:09:49Z",
+      "number": 1189,
+      "changedFiles": 6,
+      "additions": 63,
+      "deletions": 14,
+      "baseRepository": {
+        "name": "gos-player",
+        "url": "https://github.com/stablestakesiq/gos-player",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188860703?v=4",
+          "login": "stablestakesiq",
+          "url": "https://github.com/stablestakesiq"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMbdJks7YvJUk",
+      "title": "Feat/spend promo",
+      "url": "https://github.com/stablestakesiq/gos-admin/pull/224",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-06T11:02:17Z",
+      "number": 224,
+      "changedFiles": 3,
+      "additions": 282,
+      "deletions": 62,
+      "baseRepository": {
+        "name": "gos-admin",
+        "url": "https://github.com/stablestakesiq/gos-admin",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188860703?v=4",
+          "login": "stablestakesiq",
+          "url": "https://github.com/stablestakesiq"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMbdHIc7YvCUY",
+      "title": "Implement spend promo tracking across services and enhance promo mode…",
+      "url": "https://github.com/stablestakesiq/gos-backend/pull/1266",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-06T10:58:00Z",
+      "number": 1266,
+      "changedFiles": 12,
+      "additions": 417,
+      "deletions": 30,
+      "baseRepository": {
+        "name": "gos-backend",
+        "url": "https://github.com/stablestakesiq/gos-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188860703?v=4",
+          "login": "stablestakesiq",
+          "url": "https://github.com/stablestakesiq"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOOb9xTs7YFhds",
       "title": "Refactor architecture and consolidate API, components, and state management",
       "url": "https://github.com/Ctrllaunch/fpa-app/pull/176",
@@ -12774,8 +12870,8 @@
       }
     }
   ],
-  "open": 2,
-  "merged": 500,
+  "open": 3,
+  "merged": 503,
   "closed": 11,
-  "totalCount": 513
+  "totalCount": 517
 }
