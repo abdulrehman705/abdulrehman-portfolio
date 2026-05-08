@@ -8,9 +8,9 @@
       "mergedBy": null,
       "createdAt": "2026-05-06T13:25:40Z",
       "number": 78,
-      "changedFiles": 93,
-      "additions": 17130,
-      "deletions": 1658,
+      "changedFiles": 12,
+      "additions": 5675,
+      "deletions": 1666,
       "baseRepository": {
         "name": "nurmed-frontend",
         "url": "https://github.com/Nurmed-ai/nurmed-frontend",
