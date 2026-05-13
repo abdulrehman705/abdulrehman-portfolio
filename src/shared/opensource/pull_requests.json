@@ -1,11 +1,40 @@
 {
   "data": [
     {
+      "id": "PR_kwDOOb9xTs7awnie",
+      "title": "move latest changes to production",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/177",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-12T16:25:58Z",
+      "number": 177,
+      "changedFiles": 7,
+      "additions": 165,
+      "deletions": 392,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOQdhZAc7YyFMc",
       "title": "Staging v2",
       "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/78",
-      "state": "OPEN",
-      "mergedBy": null,
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
       "createdAt": "2026-05-06T13:25:40Z",
       "number": 78,
       "changedFiles": 12,
@@ -12870,8 +12899,8 @@
       }
     }
   ],
-  "open": 3,
-  "merged": 503,
+  "open": 2,
+  "merged": 505,
   "closed": 11,
-  "totalCount": 517
+  "totalCount": 518
 }
