@@ -1,6 +1,102 @@
 {
   "data": [
     {
+      "id": "PR_kwDOOb9xTs7boeJo",
+      "title": "refactor: remove showCompleteButton prop and simplify manuscript comp…",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/182",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-14T18:24:42Z",
+      "number": 182,
+      "changedFiles": 2,
+      "additions": 1,
+      "deletions": 22,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOQdhZAc7blnZe",
+      "title": "Staging",
+      "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/82",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2026-05-14T16:03:32Z",
+      "number": 82,
+      "changedFiles": 16,
+      "additions": 1242,
+      "deletions": 728,
+      "baseRepository": {
+        "name": "nurmed-frontend",
+        "url": "https://github.com/Nurmed-ai/nurmed-frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOb9xTs7bkv0m",
+      "title": "refactor: streamline manuscript handling in PlotOutline component",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/181",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-14T15:23:23Z",
+      "number": 181,
+      "changedFiles": 1,
+      "additions": 12,
+      "deletions": 51,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOb9xTs7bhi81",
+      "title": "refactor: remove regeneration checks from multiple components",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/180",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-14T12:58:01Z",
+      "number": 180,
+      "changedFiles": 11,
+      "additions": 455,
+      "deletions": 499,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOOb9xTs7bN7BE",
       "title": "refactor: add isManuscriptIncomplete prop to FinalContent component",
       "url": "https://github.com/Ctrllaunch/fpa-app/pull/179",
@@ -13049,8 +13145,8 @@
       }
     }
   ],
-  "open": 2,
-  "merged": 511,
+  "open": 3,
+  "merged": 514,
   "closed": 11,
-  "totalCount": 524
+  "totalCount": 528
 }
