@@ -1,6 +1,256 @@
 {
   "data": [
     {
+      "id": "PR_kwDOQdhZAc7cBbs_",
+      "title": "Feat/merge dubai dubai",
+      "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/90",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-15T18:19:40Z",
+      "number": 90,
+      "changedFiles": 42,
+      "additions": 3930,
+      "deletions": 9518,
+      "baseRepository": {
+        "name": "nurmed-frontend",
+        "url": "https://github.com/Nurmed-ai/nurmed-frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOb9xTs7b_F0_",
+      "title": "Staging",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/184",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-15T16:14:45Z",
+      "number": 184,
+      "changedFiles": 7,
+      "additions": 135,
+      "deletions": 95,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOQdhZAc7b-pjd",
+      "title": "Feat/merge dubai dubai",
+      "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/89",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-15T15:51:26Z",
+      "number": 89,
+      "changedFiles": 37,
+      "additions": 6423,
+      "deletions": 1924,
+      "baseRepository": {
+        "name": "nurmed-frontend",
+        "url": "https://github.com/Nurmed-ai/nurmed-frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOQdhZAc7b9fQq",
+      "title": "feat: enhance session fetching for doctors by implementing pagination…",
+      "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/88",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-15T14:54:12Z",
+      "number": 88,
+      "changedFiles": 2,
+      "additions": 111,
+      "deletions": 25,
+      "baseRepository": {
+        "name": "nurmed-frontend",
+        "url": "https://github.com/Nurmed-ai/nurmed-frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOQdhZAc7b9PUL",
+      "title": "fix typescript issues",
+      "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/87",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-15T14:42:33Z",
+      "number": 87,
+      "changedFiles": 1,
+      "additions": 21,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "nurmed-frontend",
+        "url": "https://github.com/Nurmed-ai/nurmed-frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOQdhZAc7b9Gws",
+      "title": "Nurmed dubai",
+      "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/86",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-15T14:36:21Z",
+      "number": 86,
+      "changedFiles": 1,
+      "additions": 6,
+      "deletions": 7,
+      "baseRepository": {
+        "name": "nurmed-frontend",
+        "url": "https://github.com/Nurmed-ai/nurmed-frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOQdhZAc7b8yG6",
+      "title": "UI changes region based",
+      "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/85",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-15T14:21:13Z",
+      "number": 85,
+      "changedFiles": 4,
+      "additions": 93,
+      "deletions": 73,
+      "baseRepository": {
+        "name": "nurmed-frontend",
+        "url": "https://github.com/Nurmed-ai/nurmed-frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOQdhZAc7b6aRB",
+      "title": "UI fixes region based for dubai and global",
+      "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/84",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-15T12:27:26Z",
+      "number": 84,
+      "changedFiles": 6,
+      "additions": 577,
+      "deletions": 415,
+      "baseRepository": {
+        "name": "nurmed-frontend",
+        "url": "https://github.com/Nurmed-ai/nurmed-frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOQdhZAc7b1gJ5",
+      "title": "Feat/intent create flow",
+      "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/83",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-15T08:11:59Z",
+      "number": 83,
+      "changedFiles": 2,
+      "additions": 192,
+      "deletions": 124,
+      "baseRepository": {
+        "name": "nurmed-frontend",
+        "url": "https://github.com/Nurmed-ai/nurmed-frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOb9xTs7b1fNg",
+      "title": "feat: integrate Crisp chat support for authenticated users",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/183",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-15T08:10:53Z",
+      "number": 183,
+      "changedFiles": 6,
+      "additions": 128,
+      "deletions": 95,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOOb9xTs7boeJo",
       "title": "refactor: remove showCompleteButton prop and simplify manuscript comp…",
       "url": "https://github.com/Ctrllaunch/fpa-app/pull/182",
@@ -29,13 +279,17 @@
       "id": "PR_kwDOQdhZAc7blnZe",
       "title": "Staging",
       "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/82",
-      "state": "OPEN",
-      "mergedBy": null,
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
       "createdAt": "2026-05-14T16:03:32Z",
       "number": 82,
-      "changedFiles": 16,
-      "additions": 1242,
-      "deletions": 728,
+      "changedFiles": 19,
+      "additions": 1759,
+      "deletions": 893,
       "baseRepository": {
         "name": "nurmed-frontend",
         "url": "https://github.com/Nurmed-ai/nurmed-frontend",
@@ -13145,8 +13399,8 @@
       }
     }
   ],
-  "open": 3,
-  "merged": 514,
+  "open": 2,
+  "merged": 525,
   "closed": 11,
-  "totalCount": 528
+  "totalCount": 538
 }
