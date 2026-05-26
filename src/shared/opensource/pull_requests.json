@@ -1,6 +1,56 @@
 {
   "data": [
     {
+      "id": "PR_kwDOOb9xTs7e_Ere",
+      "title": "fix: update origin URL handling in buildRegenerationCheckoutUrls func…",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/187",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-25T09:31:40Z",
+      "number": 187,
+      "changedFiles": 1,
+      "additions": 5,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOb9xTs7e-sh-",
+      "title": "refactor: improve layout and styling in BlurbCard and Blurb components",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/186",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-25T09:12:59Z",
+      "number": 186,
+      "changedFiles": 2,
+      "additions": 13,
+      "deletions": 13,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOOb9xTs7e2Jio",
       "title": "pricing and regeneration flow move to production",
       "url": "https://github.com/Ctrllaunch/fpa-app/pull/185",
@@ -13525,7 +13575,7 @@
     }
   ],
   "open": 2,
-  "merged": 530,
+  "merged": 532,
   "closed": 11,
-  "totalCount": 543
+  "totalCount": 545
 }
