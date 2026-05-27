@@ -1,6 +1,56 @@
 {
   "data": [
     {
+      "id": "PR_kwDOOb9xTs7fYOKP",
+      "title": "Staging",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/189",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-26T10:52:24Z",
+      "number": 189,
+      "changedFiles": 3,
+      "additions": 167,
+      "deletions": 49,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOb9xTs7fYEwB",
+      "title": "error handling and pricing redirect",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/188",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-26T10:44:15Z",
+      "number": 188,
+      "changedFiles": 2,
+      "additions": 114,
+      "deletions": 26,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOOb9xTs7e_Ere",
       "title": "fix: update origin URL handling in buildRegenerationCheckoutUrls func…",
       "url": "https://github.com/Ctrllaunch/fpa-app/pull/187",
@@ -13575,7 +13625,7 @@
     }
   ],
   "open": 2,
-  "merged": 532,
+  "merged": 534,
   "closed": 11,
-  "totalCount": 545
+  "totalCount": 547
 }
