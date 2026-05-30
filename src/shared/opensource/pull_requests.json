@@ -1,6 +1,81 @@
 {
   "data": [
     {
+      "id": "PR_kwDOOb9xTs7gstAS",
+      "title": "Staging",
+      "url": "https://github.com/Ctrllaunch/fpa-app/pull/190",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-29T15:12:48Z",
+      "number": 190,
+      "changedFiles": 3,
+      "additions": 37,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "fpa-app",
+        "url": "https://github.com/Ctrllaunch/fpa-app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
+          "login": "Ctrllaunch",
+          "url": "https://github.com/Ctrllaunch"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMbdHIc7gjuvo",
+      "title": "Add delete_player_account method to ProfileService and corresponding …",
+      "url": "https://github.com/stablestakesiq/gos-backend/pull/1291",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-29T08:03:53Z",
+      "number": 1291,
+      "changedFiles": 3,
+      "additions": 139,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "gos-backend",
+        "url": "https://github.com/stablestakesiq/gos-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188860703?v=4",
+          "login": "stablestakesiq",
+          "url": "https://github.com/stablestakesiq"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMbdJks7gjpqX",
+      "title": "Add DeletePlayerModal component and integrate with marketplace table",
+      "url": "https://github.com/stablestakesiq/gos-admin/pull/236",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-05-29T08:00:04Z",
+      "number": 236,
+      "changedFiles": 4,
+      "additions": 203,
+      "deletions": 621,
+      "baseRepository": {
+        "name": "gos-admin",
+        "url": "https://github.com/stablestakesiq/gos-admin",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188860703?v=4",
+          "login": "stablestakesiq",
+          "url": "https://github.com/stablestakesiq"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOMcEDz87gW-4z",
       "title": "Add spacing before 'Say Hi' section in README",
       "url": "https://github.com/abdulrehman705/abdulrehman705/pull/33",
@@ -13650,7 +13725,7 @@
     }
   ],
   "open": 2,
-  "merged": 535,
+  "merged": 538,
   "closed": 11,
-  "totalCount": 548
+  "totalCount": 551
 }
