@@ -1,6 +1,31 @@
 {
   "data": [
     {
+      "id": "PR_kwDOSBQmV87iK4ky",
+      "title": "feat(profile): add location field to DoctorProfile and update Account…",
+      "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/24",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-06-03T10:19:31Z",
+      "number": 24,
+      "changedFiles": 2,
+      "additions": 13,
+      "deletions": 23,
+      "baseRepository": {
+        "name": "nurmed-ai-v2",
+        "url": "https://github.com/Nurmed-ai/nurmed-ai-v2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOQdhZAc7hym9P",
       "title": "Staging",
       "url": "https://github.com/Nurmed-ai/nurmed-frontend/pull/98",
@@ -13800,7 +13825,7 @@
     }
   ],
   "open": 2,
-  "merged": 541,
+  "merged": 542,
   "closed": 11,
-  "totalCount": 554
+  "totalCount": 555
 }
