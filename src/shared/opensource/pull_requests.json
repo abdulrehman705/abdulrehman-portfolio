@@ -1,6 +1,31 @@
 {
   "data": [
     {
+      "id": "PR_kwDOMbdHIc7insub",
+      "title": "Fix/campaign prizing",
+      "url": "https://github.com/stablestakesiq/gos-backend/pull/1297",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-06-04T09:46:57Z",
+      "number": 1297,
+      "changedFiles": 2,
+      "additions": 28,
+      "deletions": 18,
+      "baseRepository": {
+        "name": "gos-backend",
+        "url": "https://github.com/stablestakesiq/gos-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188860703?v=4",
+          "login": "stablestakesiq",
+          "url": "https://github.com/stablestakesiq"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOSBQmV87iK4ky",
       "title": "feat(profile): add location field to DoctorProfile and update Account…",
       "url": "https://github.com/Nurmed-ai/nurmed-ai-v2/pull/24",
@@ -13825,7 +13850,7 @@
     }
   ],
   "open": 2,
-  "merged": 542,
+  "merged": 543,
   "closed": 11,
-  "totalCount": 555
+  "totalCount": 556
 }
