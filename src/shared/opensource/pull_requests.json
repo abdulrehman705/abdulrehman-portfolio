@@ -1,6 +1,31 @@
 {
   "data": [
     {
+      "id": "PR_kwDOQddbL87jId_8",
+      "title": "add doctor name and filter for analytics quality api",
+      "url": "https://github.com/Nurmed-ai/nurmed-backend/pull/467",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-06-05T14:14:46Z",
+      "number": 467,
+      "changedFiles": 3,
+      "additions": 118,
+      "deletions": 15,
+      "baseRepository": {
+        "name": "nurmed-backend",
+        "url": "https://github.com/Nurmed-ai/nurmed-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/247158257?v=4",
+          "login": "Nurmed-ai",
+          "url": "https://github.com/Nurmed-ai"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOMbdHIc7insub",
       "title": "Fix/campaign prizing",
       "url": "https://github.com/stablestakesiq/gos-backend/pull/1297",
@@ -13850,7 +13875,7 @@
     }
   ],
   "open": 2,
-  "merged": 543,
+  "merged": 544,
   "closed": 11,
-  "totalCount": 556
+  "totalCount": 557
 }
