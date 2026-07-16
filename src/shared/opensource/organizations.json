@@ -16,6 +16,16 @@
       "__typename": "Organization"
     },
     {
+      "login": "ctrl-launch",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/290409173?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "Kribb-Product",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/296000642?v=4",
+      "__typename": "Organization"
+    },
+    {
       "login": "Ctrllaunch",
       "avatarUrl": "https://avatars.githubusercontent.com/u/202347495?v=4",
       "__typename": "Organization"
