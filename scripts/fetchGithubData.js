@@ -216,8 +216,12 @@ async function fetchRepositories() {
   });
 }
 
+// Returns null when the token cannot read the repo's git history at all, which
+// is different from a repo that simply has no commits in the window. A token
+// without the `repo` scope still lists private repos but reports a null
+// defaultBranchRef for them.
 async function fetchRepoCommits(repo, authorId, since) {
-  if (!repo.defaultBranchRef) return [];
+  if (!repo.defaultBranchRef) return null;
 
   const [owner, name] = repo.nameWithOwner.split("/");
   let all = [];
@@ -267,8 +271,13 @@ async function fetchCommits() {
   const repos = await fetchRepositories();
 
   const data = [];
+  const unreadable = [];
   for (const repo of repos) {
     const commits = await fetchRepoCommits(repo, authorId, since);
+    if (commits === null) {
+      unreadable.push(repo.nameWithOwner);
+      continue;
+    }
     if (!commits.length) continue;
 
     data.push({
@@ -289,6 +298,19 @@ async function fetchCommits() {
   const totalCount = data.reduce((sum, r) => sum + r.totalCount, 0);
   const privateRepos = data.filter((r) => r.isPrivate).length;
 
+  if (unreadable.length) {
+    const sample = unreadable.slice(0, 5).join(", ");
+    const rest =
+      unreadable.length > 5 ? `, +${unreadable.length - 5} more` : "";
+    console.warn(
+      `\n  WARNING: git history unreadable in ${unreadable.length} repo(s), so their ` +
+        `commits are missing from this output.\n` +
+        `  This almost always means the token lacks the "repo" scope ` +
+        `("public_repo" alone cannot read private history).\n` +
+        `  Affected: ${sample}${rest}\n`
+    );
+  }
+
   return {
     data,
     since,
@@ -296,6 +318,7 @@ async function fetchCommits() {
     repoCount: data.length,
     privateRepos,
     publicRepos: data.length - privateRepos,
+    unreadableRepos: unreadable.length,
   };
 }
 
