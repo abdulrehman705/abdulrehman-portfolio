@@ -12,8 +12,38 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
         "url": "https://github.com/abdulrehman705"
       },
-      "totalCount": 111,
+      "totalCount": 114,
       "commits": [
+        {
+          "oid": "0966320c972437cd191b1e569f4368bb59f33edc",
+          "message": "Merge branch 'main' of github.com:abdulrehman705/abdulrehman-portfolio",
+          "messageHeadline": "Merge branch 'main' of github.com:abdulrehman705/abdulrehman-portfolio",
+          "committedDate": "2026-07-16T22:09:06Z",
+          "url": "https://github.com/abdulrehman705/abdulrehman-portfolio/commit/0966320c972437cd191b1e569f4368bb59f33edc",
+          "additions": 2653,
+          "deletions": 0,
+          "changedFilesIfAvailable": 1
+        },
+        {
+          "oid": "2c02e4bf7f511bf1724894f68a830ea7c663e123",
+          "message": "fix: handle unreadable git history in fetchRepoCommits function",
+          "messageHeadline": "fix: handle unreadable git history in fetchRepoCommits function",
+          "committedDate": "2026-07-16T22:08:59Z",
+          "url": "https://github.com/abdulrehman705/abdulrehman-portfolio/commit/2c02e4bf7f511bf1724894f68a830ea7c663e123",
+          "additions": 24,
+          "deletions": 1,
+          "changedFilesIfAvailable": 1
+        },
+        {
+          "oid": "7e216de7593730d0a0f9715729ff324c0b18bd16",
+          "message": "chore: update GitHub data",
+          "messageHeadline": "chore: update GitHub data",
+          "committedDate": "2026-07-16T21:19:11Z",
+          "url": "https://github.com/abdulrehman705/abdulrehman-portfolio/commit/7e216de7593730d0a0f9715729ff324c0b18bd16",
+          "additions": 2653,
+          "deletions": 0,
+          "changedFilesIfAvailable": 1
+        },
         {
           "oid": "e3101f017f81c7f85aa3bed11cb6374ff154e4e7",
           "message": "Merge branch 'main' of github.com:abdulrehman705/abdulrehman-portfolio",
@@ -2645,9 +2675,10 @@
       ]
     }
   ],
-  "since": "2025-07-16T21:18:47.739Z",
-  "totalCount": 250,
+  "since": "2025-07-17T03:19:36.923Z",
+  "totalCount": 253,
   "repoCount": 9,
   "privateRepos": 0,
-  "publicRepos": 9
+  "publicRepos": 9,
+  "unreadableRepos": 33
 }
