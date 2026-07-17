@@ -27,7 +27,7 @@ jobs:
 
       - run: npm run fetch-data
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "chore: update GitHub data"
           file_pattern: "src/shared/opensource/*.json"
