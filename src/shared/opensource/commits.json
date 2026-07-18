@@ -12,8 +12,38 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
         "url": "https://github.com/abdulrehman705"
       },
-      "totalCount": 114,
+      "totalCount": 117,
       "commits": [
+        {
+          "oid": "5b883a69af59e82ad1b0be74d5bc6cd5a282396d",
+          "message": "Merge branch 'main' of github.com:abdulrehman705/abdulrehman-portfolio",
+          "messageHeadline": "Merge branch 'main' of github.com:abdulrehman705/abdulrehman-portfolio",
+          "committedDate": "2026-07-17T05:05:33Z",
+          "url": "https://github.com/abdulrehman705/abdulrehman-portfolio/commit/5b883a69af59e82ad1b0be74d5bc6cd5a282396d",
+          "additions": 35,
+          "deletions": 4,
+          "changedFilesIfAvailable": 1
+        },
+        {
+          "oid": "1423535da7cbf35112299b1434e7a41d8af70d03",
+          "message": "chore: upgrade git-auto-commit-action to v7 in GitHub data workflow",
+          "messageHeadline": "chore: upgrade git-auto-commit-action to v7 in GitHub data workflow",
+          "committedDate": "2026-07-17T05:05:26Z",
+          "url": "https://github.com/abdulrehman705/abdulrehman-portfolio/commit/1423535da7cbf35112299b1434e7a41d8af70d03",
+          "additions": 1,
+          "deletions": 1,
+          "changedFilesIfAvailable": 1
+        },
+        {
+          "oid": "33b644e1a3d6533d5d88b4233c0fe5df25810f56",
+          "message": "chore: update GitHub data",
+          "messageHeadline": "chore: update GitHub data",
+          "committedDate": "2026-07-17T03:20:03Z",
+          "url": "https://github.com/abdulrehman705/abdulrehman-portfolio/commit/33b644e1a3d6533d5d88b4233c0fe5df25810f56",
+          "additions": 35,
+          "deletions": 4,
+          "changedFilesIfAvailable": 1
+        },
         {
           "oid": "0966320c972437cd191b1e569f4368bb59f33edc",
           "message": "Merge branch 'main' of github.com:abdulrehman705/abdulrehman-portfolio",
@@ -2260,7 +2290,7 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
         "url": "https://github.com/abdulrehman705"
       },
-      "totalCount": 14,
+      "totalCount": 13,
       "commits": [
         {
           "oid": "cbadd95264709fe33205f75887c41391406f192e",
@@ -2391,16 +2421,6 @@
           "additions": 653,
           "deletions": 48,
           "changedFilesIfAvailable": 10
-        },
-        {
-          "oid": "4d1ef503eba99fd7e1842abcac39f2851d01a402",
-          "message": "feat: integrate apis and desgin auth flow",
-          "messageHeadline": "feat: integrate apis and desgin auth flow",
-          "committedDate": "2025-07-17T08:00:02Z",
-          "url": "https://github.com/abdulrehman705/hospital-dashboard/commit/4d1ef503eba99fd7e1842abcac39f2851d01a402",
-          "additions": 167,
-          "deletions": 75,
-          "changedFilesIfAvailable": 7
         }
       ]
     },
@@ -2675,8 +2695,8 @@
       ]
     }
   ],
-  "since": "2025-07-17T03:19:36.923Z",
-  "totalCount": 253,
+  "since": "2025-07-18T02:56:17.214Z",
+  "totalCount": 255,
   "repoCount": 9,
   "privateRepos": 0,
   "publicRepos": 9,
