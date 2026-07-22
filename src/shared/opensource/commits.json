@@ -12,8 +12,18 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
         "url": "https://github.com/abdulrehman705"
       },
-      "totalCount": 120,
+      "totalCount": 121,
       "commits": [
+        {
+          "oid": "a0be449fb0653dbfdf27beb4d256b2e1cf66e1a0",
+          "message": "chore: update GitHub data",
+          "messageHeadline": "chore: update GitHub data",
+          "committedDate": "2026-07-21T03:22:56Z",
+          "url": "https://github.com/abdulrehman705/abdulrehman-portfolio/commit/a0be449fb0653dbfdf27beb4d256b2e1cf66e1a0",
+          "additions": 13,
+          "deletions": 3,
+          "changedFilesIfAvailable": 1
+        },
         {
           "oid": "dd87942e468bc83bec28a9985ab5d56a816dc7e7",
           "message": "chore: update GitHub data",
@@ -2309,152 +2319,6 @@
       ]
     },
     {
-      "name": "hospital-dashboard",
-      "nameWithOwner": "abdulrehman705/hospital-dashboard",
-      "url": "https://github.com/abdulrehman705/hospital-dashboard",
-      "isPrivate": false,
-      "isFork": false,
-      "primaryLanguage": "TypeScript",
-      "owner": {
-        "login": "abdulrehman705",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
-        "url": "https://github.com/abdulrehman705"
-      },
-      "totalCount": 13,
-      "commits": [
-        {
-          "oid": "cbadd95264709fe33205f75887c41391406f192e",
-          "message": "feat: add graph data against hospitals and sessions",
-          "messageHeadline": "feat: add graph data against hospitals and sessions",
-          "committedDate": "2025-07-21T15:13:53Z",
-          "url": "https://github.com/abdulrehman705/hospital-dashboard/commit/cbadd95264709fe33205f75887c41391406f192e",
-          "additions": 60,
-          "deletions": 56,
-          "changedFilesIfAvailable": 2
-        },
-        {
-          "oid": "34b160175630c8273046d646b5a526cbc85a364c",
-          "message": "feat: integrate forgot password functionality",
-          "messageHeadline": "feat: integrate forgot password functionality",
-          "committedDate": "2025-07-21T14:25:50Z",
-          "url": "https://github.com/abdulrehman705/hospital-dashboard/commit/34b160175630c8273046d646b5a526cbc85a364c",
-          "additions": 51,
-          "deletions": 40,
-          "changedFilesIfAvailable": 5
-        },
-        {
-          "oid": "a879b0c59df1cbda8270255b7dcb76f890f1ac7e",
-          "message": "feat: handle logout functionality",
-          "messageHeadline": "feat: handle logout functionality",
-          "committedDate": "2025-07-21T13:31:19Z",
-          "url": "https://github.com/abdulrehman705/hospital-dashboard/commit/a879b0c59df1cbda8270255b7dcb76f890f1ac7e",
-          "additions": 56,
-          "deletions": 51,
-          "changedFilesIfAvailable": 7
-        },
-        {
-          "oid": "16da6f58d397843618b18f5d4afbbecf3b7d611b",
-          "message": "fix: remove extra components and unused code",
-          "messageHeadline": "fix: remove extra components and unused code",
-          "committedDate": "2025-07-21T12:50:50Z",
-          "url": "https://github.com/abdulrehman705/hospital-dashboard/commit/16da6f58d397843618b18f5d4afbbecf3b7d611b",
-          "additions": 0,
-          "deletions": 1,
-          "changedFilesIfAvailable": 1
-        },
-        {
-          "oid": "af4ef490b1a0278bae04da4d4bf461239bc6238f",
-          "message": "fix: remove extra components and unused code",
-          "messageHeadline": "fix: remove extra components and unused code",
-          "committedDate": "2025-07-21T12:49:58Z",
-          "url": "https://github.com/abdulrehman705/hospital-dashboard/commit/af4ef490b1a0278bae04da4d4bf461239bc6238f",
-          "additions": 0,
-          "deletions": 31,
-          "changedFilesIfAvailable": 1
-        },
-        {
-          "oid": "e7a9977abf724307a0205a90ea56fbb0e8a2eb3c",
-          "message": "feat: integrate dashboard apis including session api",
-          "messageHeadline": "feat: integrate dashboard apis including session api",
-          "committedDate": "2025-07-21T12:47:37Z",
-          "url": "https://github.com/abdulrehman705/hospital-dashboard/commit/e7a9977abf724307a0205a90ea56fbb0e8a2eb3c",
-          "additions": 47,
-          "deletions": 36,
-          "changedFilesIfAvailable": 4
-        },
-        {
-          "oid": "277e7f9fee6cf2036519acc74f99d40bcfb016d9",
-          "message": "feat: integrate doctor api and update data on change or update of any thing",
-          "messageHeadline": "feat: integrate doctor api and update data on change or update of any…",
-          "committedDate": "2025-07-21T12:03:14Z",
-          "url": "https://github.com/abdulrehman705/hospital-dashboard/commit/277e7f9fee6cf2036519acc74f99d40bcfb016d9",
-          "additions": 9,
-          "deletions": 1,
-          "changedFilesIfAvailable": 1
-        },
-        {
-          "oid": "71b08e9cfe212f2630633d4f435cf2a64c672825",
-          "message": "feat: integrate doctor api and update data on change or update of any thing",
-          "messageHeadline": "feat: integrate doctor api and update data on change or update of any…",
-          "committedDate": "2025-07-21T11:59:42Z",
-          "url": "https://github.com/abdulrehman705/hospital-dashboard/commit/71b08e9cfe212f2630633d4f435cf2a64c672825",
-          "additions": 218,
-          "deletions": 254,
-          "changedFilesIfAvailable": 11
-        },
-        {
-          "oid": "5f5982bd3013a80c8cb41313658ea49e65360261",
-          "message": "feat: update fields for doctor",
-          "messageHeadline": "feat: update fields for doctor",
-          "committedDate": "2025-07-21T10:32:01Z",
-          "url": "https://github.com/abdulrehman705/hospital-dashboard/commit/5f5982bd3013a80c8cb41313658ea49e65360261",
-          "additions": 18,
-          "deletions": 18,
-          "changedFilesIfAvailable": 1
-        },
-        {
-          "oid": "4d347fc33e8f0f968dbb43cab81c24c4f0fb6612",
-          "message": "feat: add hospital field in doctors tab",
-          "messageHeadline": "feat: add hospital field in doctors tab",
-          "committedDate": "2025-07-21T09:06:22Z",
-          "url": "https://github.com/abdulrehman705/hospital-dashboard/commit/4d347fc33e8f0f968dbb43cab81c24c4f0fb6612",
-          "additions": 20,
-          "deletions": 75,
-          "changedFilesIfAvailable": 1
-        },
-        {
-          "oid": "8d79a9d03a865946835b557b70024d3178de16b2",
-          "message": "feat: integrate CRUD for doctors and update UI",
-          "messageHeadline": "feat: integrate CRUD for doctors and update UI",
-          "committedDate": "2025-07-21T08:57:50Z",
-          "url": "https://github.com/abdulrehman705/hospital-dashboard/commit/8d79a9d03a865946835b557b70024d3178de16b2",
-          "additions": 93,
-          "deletions": 7,
-          "changedFilesIfAvailable": 5
-        },
-        {
-          "oid": "c725b47bb6c43ba12b35701ac08f70a22ce4784b",
-          "message": "feat: integrate auth and handle null data field",
-          "messageHeadline": "feat: integrate auth and handle null data field",
-          "committedDate": "2025-07-21T08:42:52Z",
-          "url": "https://github.com/abdulrehman705/hospital-dashboard/commit/c725b47bb6c43ba12b35701ac08f70a22ce4784b",
-          "additions": 521,
-          "deletions": 775,
-          "changedFilesIfAvailable": 22
-        },
-        {
-          "oid": "fc799be19b1d601ed4cfe7849bd514f85cf46208",
-          "message": "feat: add auth integration",
-          "messageHeadline": "feat: add auth integration",
-          "committedDate": "2025-07-21T03:26:28Z",
-          "url": "https://github.com/abdulrehman705/hospital-dashboard/commit/fc799be19b1d601ed4cfe7849bd514f85cf46208",
-          "additions": 653,
-          "deletions": 48,
-          "changedFilesIfAvailable": 10
-        }
-      ]
-    },
-    {
       "name": "version",
       "nameWithOwner": "alihamzanasir/version",
       "url": "https://github.com/alihamzanasir/version",
@@ -2725,10 +2589,10 @@
       ]
     }
   ],
-  "since": "2025-07-21T03:22:32.144Z",
-  "totalCount": 258,
-  "repoCount": 9,
+  "since": "2025-07-22T03:20:53.812Z",
+  "totalCount": 246,
+  "repoCount": 8,
   "privateRepos": 0,
-  "publicRepos": 9,
+  "publicRepos": 8,
   "unreadableRepos": 33
 }
