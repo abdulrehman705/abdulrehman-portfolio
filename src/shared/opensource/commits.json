@@ -12,8 +12,18 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
         "url": "https://github.com/abdulrehman705"
       },
-      "totalCount": 123,
+      "totalCount": 124,
       "commits": [
+        {
+          "oid": "e9a5b65f8c2ab3a02ea5bdf391a568a13ca80562",
+          "message": "chore: update GitHub data",
+          "messageHeadline": "chore: update GitHub data",
+          "committedDate": "2026-07-25T03:20:37Z",
+          "url": "https://github.com/abdulrehman705/abdulrehman-portfolio/commit/e9a5b65f8c2ab3a02ea5bdf391a568a13ca80562",
+          "additions": 13,
+          "deletions": 3,
+          "changedFilesIfAvailable": 1
+        },
         {
           "oid": "75297c6a457c151db5e55686c76b6fd25d1d8873",
           "message": "chore: update GitHub data",
@@ -2521,6 +2531,42 @@
       ]
     },
     {
+      "name": "task-management",
+      "nameWithOwner": "abdulrehman705/task-management",
+      "url": "https://github.com/abdulrehman705/task-management",
+      "isPrivate": false,
+      "isFork": false,
+      "primaryLanguage": "TypeScript",
+      "owner": {
+        "login": "abdulrehman705",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705"
+      },
+      "totalCount": 2,
+      "commits": [
+        {
+          "oid": "4578991c9c9eac4a21710d8372a57f17d2933c6c",
+          "message": "Update task completion logic to include 'review' status in analytics calculations.",
+          "messageHeadline": "Update task completion logic to include 'review' status in analytics …",
+          "committedDate": "2026-07-26T02:51:36Z",
+          "url": "https://github.com/abdulrehman705/task-management/commit/4578991c9c9eac4a21710d8372a57f17d2933c6c",
+          "additions": 3,
+          "deletions": 1,
+          "changedFilesIfAvailable": 1
+        },
+        {
+          "oid": "1f47467dcb127dfe2e36f1991415614fcc18198a",
+          "message": "Initialize task management dashboard with Next.js, TypeScript, and Tailwind CSS. Add essential configuration files, components, and a README. Implement basic layout and error handling, along with a global search feature and various dashboard sections for tasks, calendar, and reports.",
+          "messageHeadline": "Initialize task management dashboard with Next.js, TypeScript, and Ta…",
+          "committedDate": "2026-07-26T02:33:52Z",
+          "url": "https://github.com/abdulrehman705/task-management/commit/1f47467dcb127dfe2e36f1991415614fcc18198a",
+          "additions": 18867,
+          "deletions": 0,
+          "changedFilesIfAvailable": 145
+        }
+      ]
+    },
+    {
       "name": "SoftwareEnginering",
       "nameWithOwner": "abdulrehman705/SoftwareEnginering",
       "url": "https://github.com/abdulrehman705/SoftwareEnginering",
@@ -2609,10 +2655,10 @@
       ]
     }
   ],
-  "since": "2025-07-25T03:20:14.981Z",
-  "totalCount": 248,
-  "repoCount": 8,
+  "since": "2025-07-26T03:34:02.133Z",
+  "totalCount": 251,
+  "repoCount": 9,
   "privateRepos": 0,
-  "publicRepos": 8,
+  "publicRepos": 9,
   "unreadableRepos": 33
 }
