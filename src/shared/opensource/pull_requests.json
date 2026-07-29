@@ -1,6 +1,31 @@
 {
   "data": [
     {
+      "id": "PR_kwDOMcEDz873pjHq",
+      "title": "Update GitHub Streak stats badge in README",
+      "url": "https://github.com/abdulrehman705/abdulrehman705/pull/36",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-07-28T20:20:07Z",
+      "number": 36,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "abdulrehman705",
+        "url": "https://github.com/abdulrehman705/abdulrehman705",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+          "login": "abdulrehman705",
+          "url": "https://github.com/abdulrehman705"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOMcEDz87l7z7m",
       "title": "Update README.md",
       "url": "https://github.com/abdulrehman705/abdulrehman705/pull/35",
@@ -1098,7 +1123,7 @@
     }
   ],
   "open": 1,
-  "merged": 43,
+  "merged": 44,
   "closed": 0,
-  "totalCount": 44
+  "totalCount": 45
 }

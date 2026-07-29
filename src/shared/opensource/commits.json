@@ -12,8 +12,18 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
         "url": "https://github.com/abdulrehman705"
       },
-      "totalCount": 125,
+      "totalCount": 126,
       "commits": [
+        {
+          "oid": "76767c876101d108c014f4e28638f96028ab4999",
+          "message": "chore: update GitHub data",
+          "messageHeadline": "chore: update GitHub data",
+          "committedDate": "2026-07-27T03:42:05Z",
+          "url": "https://github.com/abdulrehman705/abdulrehman-portfolio/commit/76767c876101d108c014f4e28638f96028ab4999",
+          "additions": 16,
+          "deletions": 42,
+          "changedFilesIfAvailable": 1
+        },
         {
           "oid": "a0c5766e728c61fca182a56d41d8c13e2346a5ae",
           "message": "chore: update GitHub data",
@@ -1278,8 +1288,28 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
         "url": "https://github.com/abdulrehman705"
       },
-      "totalCount": 81,
+      "totalCount": 83,
       "commits": [
+        {
+          "oid": "9f8ab16149bfa736668c97b79e3b7d24d910d27c",
+          "message": "Merge pull request #36 from abdulrehman705/abdulrehman705-patch-36\n\nUpdate GitHub Streak stats badge in README",
+          "messageHeadline": "Merge pull request #36 from abdulrehman705/abdulrehman705-patch-36",
+          "committedDate": "2026-07-28T20:20:17Z",
+          "url": "https://github.com/abdulrehman705/abdulrehman705/commit/9f8ab16149bfa736668c97b79e3b7d24d910d27c",
+          "additions": 1,
+          "deletions": 1,
+          "changedFilesIfAvailable": 1
+        },
+        {
+          "oid": "0e32e973d89ff58b40a50867e0352ee451282767",
+          "message": "Update GitHub Streak stats badge in README",
+          "messageHeadline": "Update GitHub Streak stats badge in README",
+          "committedDate": "2026-07-28T20:19:38Z",
+          "url": "https://github.com/abdulrehman705/abdulrehman705/commit/0e32e973d89ff58b40a50867e0352ee451282767",
+          "additions": 1,
+          "deletions": 1,
+          "changedFilesIfAvailable": 1
+        },
         {
           "oid": "e4f5857a1fa643708bfd9ad7d96dd0701a8b42a2",
           "message": "Merge pull request #35 from abdulrehman705/abdulrehman705-patch-35\n\nUpdate README.md",
@@ -2629,10 +2659,10 @@
       ]
     }
   ],
-  "since": "2025-07-27T03:41:40.832Z",
-  "totalCount": 250,
+  "since": "2025-07-29T03:17:16.285Z",
+  "totalCount": 253,
   "repoCount": 8,
   "privateRepos": 0,
   "publicRepos": 8,
-  "unreadableRepos": 34
+  "unreadableRepos": 35
 }
