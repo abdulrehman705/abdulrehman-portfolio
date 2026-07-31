@@ -12,8 +12,18 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
         "url": "https://github.com/abdulrehman705"
       },
-      "totalCount": 127,
+      "totalCount": 128,
       "commits": [
+        {
+          "oid": "9f3dc667ee3a8ef0d5fd2093c119c8fe578b5cd9",
+          "message": "chore: update GitHub data",
+          "messageHeadline": "chore: update GitHub data",
+          "committedDate": "2026-07-30T02:50:13Z",
+          "url": "https://github.com/abdulrehman705/abdulrehman-portfolio/commit/9f3dc667ee3a8ef0d5fd2093c119c8fe578b5cd9",
+          "additions": 13,
+          "deletions": 3,
+          "changedFilesIfAvailable": 1
+        },
         {
           "oid": "59ba50ac5727a60619d1a9d3c97116693da5e316",
           "message": "chore: update GitHub data",
@@ -1298,8 +1308,28 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
         "url": "https://github.com/abdulrehman705"
       },
-      "totalCount": 83,
+      "totalCount": 85,
       "commits": [
+        {
+          "oid": "0f050aa0b74eacb27babd49af6e76826f845e103",
+          "message": "Merge pull request #37 from abdulrehman705/abdulrehman705-patch-36\n\nFix GitHub Streak badge link in README.md",
+          "messageHeadline": "Merge pull request #37 from abdulrehman705/abdulrehman705-patch-36",
+          "committedDate": "2026-07-30T14:50:20Z",
+          "url": "https://github.com/abdulrehman705/abdulrehman705/commit/0f050aa0b74eacb27babd49af6e76826f845e103",
+          "additions": 2,
+          "deletions": 1,
+          "changedFilesIfAvailable": 1
+        },
+        {
+          "oid": "9ed3255c0371663284290de578a751e786607095",
+          "message": "Fix GitHub Streak badge link in README.md",
+          "messageHeadline": "Fix GitHub Streak badge link in README.md",
+          "committedDate": "2026-07-30T08:25:42Z",
+          "url": "https://github.com/abdulrehman705/abdulrehman705/commit/9ed3255c0371663284290de578a751e786607095",
+          "additions": 2,
+          "deletions": 1,
+          "changedFilesIfAvailable": 1
+        },
         {
           "oid": "9f8ab16149bfa736668c97b79e3b7d24d910d27c",
           "message": "Merge pull request #36 from abdulrehman705/abdulrehman705-patch-36\n\nUpdate GitHub Streak stats badge in README",
@@ -2669,8 +2699,8 @@
       ]
     }
   ],
-  "since": "2025-07-30T02:49:51.468Z",
-  "totalCount": 254,
+  "since": "2025-07-31T03:32:57.546Z",
+  "totalCount": 257,
   "repoCount": 8,
   "privateRepos": 0,
   "publicRepos": 8,
