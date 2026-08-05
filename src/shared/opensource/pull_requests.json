@@ -1,6 +1,102 @@
 {
   "data": [
     {
+      "id": "PR_kwDOMcEDz876zN2t",
+      "title": "Update README.md",
+      "url": "https://github.com/abdulrehman705/abdulrehman705/pull/41",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-08-04T22:54:58Z",
+      "number": 41,
+      "changedFiles": 1,
+      "additions": 0,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "abdulrehman705",
+        "url": "https://github.com/abdulrehman705/abdulrehman705",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+          "login": "abdulrehman705",
+          "url": "https://github.com/abdulrehman705"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMcEDz876ikn3",
+      "title": "Fix GitHub Streak badge link in README",
+      "url": "https://github.com/abdulrehman705/abdulrehman705/pull/40",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-08-04T12:33:21Z",
+      "number": 40,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "abdulrehman705",
+        "url": "https://github.com/abdulrehman705/abdulrehman705",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+          "login": "abdulrehman705",
+          "url": "https://github.com/abdulrehman705"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMcEDz876iY5a",
+      "title": "Fix formatting of GitHub Streak badge in README",
+      "url": "https://github.com/abdulrehman705/abdulrehman705/pull/39",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705",
+        "login": "abdulrehman705"
+      },
+      "createdAt": "2026-08-04T12:27:15Z",
+      "number": 39,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "abdulrehman705",
+        "url": "https://github.com/abdulrehman705/abdulrehman705",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+          "login": "abdulrehman705",
+          "url": "https://github.com/abdulrehman705"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMcEDz876iV27",
+      "title": "Update README.md",
+      "url": "https://github.com/abdulrehman705/abdulrehman705/pull/38",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2026-08-04T12:25:40Z",
+      "number": 38,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "abdulrehman705",
+        "url": "https://github.com/abdulrehman705/abdulrehman705",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+          "login": "abdulrehman705",
+          "url": "https://github.com/abdulrehman705"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOMcEDz874adj_",
       "title": "Fix GitHub Streak badge link in README.md",
       "url": "https://github.com/abdulrehman705/abdulrehman705/pull/37",
@@ -1147,8 +1243,8 @@
       }
     }
   ],
-  "open": 1,
-  "merged": 45,
+  "open": 2,
+  "merged": 48,
   "closed": 0,
-  "totalCount": 46
+  "totalCount": 50
 }
