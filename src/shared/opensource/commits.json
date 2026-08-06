@@ -12,8 +12,18 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
         "url": "https://github.com/abdulrehman705"
       },
-      "totalCount": 133,
+      "totalCount": 134,
       "commits": [
+        {
+          "oid": "abd9d56564dc5c28f0a10c532f6137141cb0c838",
+          "message": "chore: update GitHub data",
+          "messageHeadline": "chore: update GitHub data",
+          "committedDate": "2026-08-05T03:13:00Z",
+          "url": "https://github.com/abdulrehman705/abdulrehman-portfolio/commit/abd9d56564dc5c28f0a10c532f6137141cb0c838",
+          "additions": 173,
+          "deletions": 7,
+          "changedFilesIfAvailable": 2
+        },
         {
           "oid": "501f2abc5fc9f16ce0a58a61d8c6fb46c24ab608",
           "message": "chore: update GitHub data",
@@ -2809,8 +2819,8 @@
       ]
     }
   ],
-  "since": "2025-08-05T03:12:36.513Z",
-  "totalCount": 268,
+  "since": "2025-08-06T03:15:35.855Z",
+  "totalCount": 269,
   "repoCount": 8,
   "privateRepos": 0,
   "publicRepos": 8,
