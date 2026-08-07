@@ -12,8 +12,18 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
         "url": "https://github.com/abdulrehman705"
       },
-      "totalCount": 134,
+      "totalCount": 135,
       "commits": [
+        {
+          "oid": "c37a7e7a4bdd7ddc5633845aa0115dfebf447079",
+          "message": "chore: update GitHub data",
+          "messageHeadline": "chore: update GitHub data",
+          "committedDate": "2026-08-06T03:15:59Z",
+          "url": "https://github.com/abdulrehman705/abdulrehman-portfolio/commit/c37a7e7a4bdd7ddc5633845aa0115dfebf447079",
+          "additions": 13,
+          "deletions": 3,
+          "changedFilesIfAvailable": 1
+        },
         {
           "oid": "abd9d56564dc5c28f0a10c532f6137141cb0c838",
           "message": "chore: update GitHub data",
@@ -1368,8 +1378,28 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
         "url": "https://github.com/abdulrehman705"
       },
-      "totalCount": 91,
+      "totalCount": 93,
       "commits": [
+        {
+          "oid": "9da0398a692a49a44a384039bfeefe72aa571648",
+          "message": "Merge pull request #42 from abdulrehman705/abdulrehman705-patch-41\n\nAdd LinkedIn badge to README",
+          "messageHeadline": "Merge pull request #42 from abdulrehman705/abdulrehman705-patch-41",
+          "committedDate": "2026-08-06T19:36:46Z",
+          "url": "https://github.com/abdulrehman705/abdulrehman705/commit/9da0398a692a49a44a384039bfeefe72aa571648",
+          "additions": 1,
+          "deletions": 0,
+          "changedFilesIfAvailable": 1
+        },
+        {
+          "oid": "ed309a3089011b2c58c5c74d870a2b8062764a2a",
+          "message": "Add LinkedIn badge to README",
+          "messageHeadline": "Add LinkedIn badge to README",
+          "committedDate": "2026-08-06T19:36:24Z",
+          "url": "https://github.com/abdulrehman705/abdulrehman705/commit/ed309a3089011b2c58c5c74d870a2b8062764a2a",
+          "additions": 1,
+          "deletions": 0,
+          "changedFilesIfAvailable": 1
+        },
         {
           "oid": "04f23326bdb1e00a35dd5aafb1467e9b69f03d9e",
           "message": "Merge pull request #41 from abdulrehman705/abdulrehman705-patch-40\n\nUpdate README.md",
@@ -2819,10 +2849,10 @@
       ]
     }
   ],
-  "since": "2025-08-06T03:15:35.855Z",
-  "totalCount": 269,
+  "since": "2025-08-07T02:55:39.780Z",
+  "totalCount": 272,
   "repoCount": 8,
   "privateRepos": 0,
   "publicRepos": 8,
-  "unreadableRepos": 35
+  "unreadableRepos": 36
 }
