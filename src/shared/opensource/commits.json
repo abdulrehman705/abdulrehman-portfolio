@@ -12,8 +12,18 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
         "url": "https://github.com/abdulrehman705"
       },
-      "totalCount": 139,
+      "totalCount": 140,
       "commits": [
+        {
+          "oid": "278d84d438951188633ddcfea90d38f768bc4dd1",
+          "message": "chore: update GitHub data",
+          "messageHeadline": "chore: update GitHub data",
+          "committedDate": "2026-08-11T02:08:29Z",
+          "url": "https://github.com/abdulrehman705/abdulrehman-portfolio/commit/278d84d438951188633ddcfea90d38f768bc4dd1",
+          "additions": 13,
+          "deletions": 3,
+          "changedFilesIfAvailable": 1
+        },
         {
           "oid": "0e7285b681e756f0a767dc0a90df1a385a8c670e",
           "message": "chore: update GitHub data",
@@ -2837,6 +2847,58 @@
       ]
     },
     {
+      "name": "docs-starter",
+      "nameWithOwner": "abdulrehman705/docs-starter",
+      "url": "https://github.com/abdulrehman705/docs-starter",
+      "isPrivate": false,
+      "isFork": false,
+      "primaryLanguage": null,
+      "owner": {
+        "login": "abdulrehman705",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705"
+      },
+      "totalCount": 1,
+      "commits": [
+        {
+          "oid": "2a1fa6c1a0579c460fd6a9c04d118c0720bd600c",
+          "message": "Initial commit",
+          "messageHeadline": "Initial commit",
+          "committedDate": "2026-08-11T08:48:10Z",
+          "url": "https://github.com/abdulrehman705/docs-starter/commit/2a1fa6c1a0579c460fd6a9c04d118c0720bd600c",
+          "additions": 1,
+          "deletions": 0,
+          "changedFilesIfAvailable": 1
+        }
+      ]
+    },
+    {
+      "name": "mintlify-starter",
+      "nameWithOwner": "abdulrehman705/mintlify-starter",
+      "url": "https://github.com/abdulrehman705/mintlify-starter",
+      "isPrivate": false,
+      "isFork": false,
+      "primaryLanguage": null,
+      "owner": {
+        "login": "abdulrehman705",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705"
+      },
+      "totalCount": 1,
+      "commits": [
+        {
+          "oid": "6536f5121df0a80279b7d70a3c35fee86925726f",
+          "message": "Initial commit",
+          "messageHeadline": "Initial commit",
+          "committedDate": "2026-08-11T08:47:48Z",
+          "url": "https://github.com/abdulrehman705/mintlify-starter/commit/6536f5121df0a80279b7d70a3c35fee86925726f",
+          "additions": 1,
+          "deletions": 0,
+          "changedFilesIfAvailable": 1
+        }
+      ]
+    },
+    {
       "name": "documentation",
       "nameWithOwner": "abdulrehman705/documentation",
       "url": "https://github.com/abdulrehman705/documentation",
@@ -2889,10 +2951,10 @@
       ]
     }
   ],
-  "since": "2025-08-11T02:08:04.794Z",
-  "totalCount": 276,
-  "repoCount": 8,
+  "since": "2025-08-12T02:25:55.386Z",
+  "totalCount": 279,
+  "repoCount": 10,
   "privateRepos": 0,
-  "publicRepos": 8,
+  "publicRepos": 10,
   "unreadableRepos": 36
 }
