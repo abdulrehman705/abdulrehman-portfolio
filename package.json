@@ -62,5 +62,10 @@
   "lint-staged": {
     "*.json": "prettier-package-json --write",
     "*.{js,css,md}": "prettier --write"
+  },
+  "pnpm": {
+    "overrides": {
+      "cipher-base": "1.0.5"
+    }
   }
 }
