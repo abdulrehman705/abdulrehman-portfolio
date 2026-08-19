@@ -12,8 +12,18 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
         "url": "https://github.com/abdulrehman705"
       },
-      "totalCount": 146,
+      "totalCount": 147,
       "commits": [
+        {
+          "oid": "0cf36e329e221bcf3543a4a6cb3321fdfeb7f773",
+          "message": "chore: update GitHub data",
+          "messageHeadline": "chore: update GitHub data",
+          "committedDate": "2026-08-18T01:37:16Z",
+          "url": "https://github.com/abdulrehman705/abdulrehman-portfolio/commit/0cf36e329e221bcf3543a4a6cb3321fdfeb7f773",
+          "additions": 9468,
+          "deletions": 3,
+          "changedFilesIfAvailable": 24
+        },
         {
           "oid": "69ce004db736405c4f215c83052f3aa261061315",
           "message": "chore: update GitHub data",
@@ -1491,14 +1501,14 @@
       "totalCount": 95,
       "commits": [
         {
-          "oid": "9292a64e10ef7abf61a9889425df6fd7b26efdc2",
-          "message": "Merge pull request #43 from abdulrehman705/abdulrehman705-patch-42\n\nUpdate README.md",
+          "oid": "6ac6d091ddd143e64e3eb16c8c98bb61c9314dbb",
+          "message": "Merge pull request #43 from abdulrehman705/abdulrehman705-patch-42",
           "messageHeadline": "Merge pull request #43 from abdulrehman705/abdulrehman705-patch-42",
           "committedDate": "2026-08-15T21:35:44Z",
-          "url": "https://github.com/abdulrehman705/abdulrehman705/commit/9292a64e10ef7abf61a9889425df6fd7b26efdc2",
-          "additions": 0,
+          "url": "https://github.com/abdulrehman705/abdulrehman705/commit/6ac6d091ddd143e64e3eb16c8c98bb61c9314dbb",
+          "additions": 9451,
           "deletions": 1,
-          "changedFilesIfAvailable": 1
+          "changedFilesIfAvailable": 23
         },
         {
           "oid": "29d433dfbe6237b313570444e572c2836d4ae562",
@@ -2927,32 +2937,6 @@
       ]
     },
     {
-      "name": "docs-starter",
-      "nameWithOwner": "abdulrehman705/docs-starter",
-      "url": "https://github.com/abdulrehman705/docs-starter",
-      "isPrivate": false,
-      "isFork": false,
-      "primaryLanguage": null,
-      "owner": {
-        "login": "abdulrehman705",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
-        "url": "https://github.com/abdulrehman705"
-      },
-      "totalCount": 1,
-      "commits": [
-        {
-          "oid": "2a1fa6c1a0579c460fd6a9c04d118c0720bd600c",
-          "message": "Initial commit",
-          "messageHeadline": "Initial commit",
-          "committedDate": "2026-08-11T08:48:10Z",
-          "url": "https://github.com/abdulrehman705/docs-starter/commit/2a1fa6c1a0579c460fd6a9c04d118c0720bd600c",
-          "additions": 1,
-          "deletions": 0,
-          "changedFilesIfAvailable": 1
-        }
-      ]
-    },
-    {
       "name": "mintlify-starter",
       "nameWithOwner": "abdulrehman705/mintlify-starter",
       "url": "https://github.com/abdulrehman705/mintlify-starter",
@@ -2967,14 +2951,40 @@
       "totalCount": 1,
       "commits": [
         {
-          "oid": "6536f5121df0a80279b7d70a3c35fee86925726f",
+          "oid": "977e0c9e9d1d2de3306b9560f621a579089a1d9b",
           "message": "Initial commit",
           "messageHeadline": "Initial commit",
           "committedDate": "2026-08-11T08:47:48Z",
-          "url": "https://github.com/abdulrehman705/mintlify-starter/commit/6536f5121df0a80279b7d70a3c35fee86925726f",
-          "additions": 1,
+          "url": "https://github.com/abdulrehman705/mintlify-starter/commit/977e0c9e9d1d2de3306b9560f621a579089a1d9b",
+          "additions": 9452,
           "deletions": 0,
-          "changedFilesIfAvailable": 1
+          "changedFilesIfAvailable": 23
+        }
+      ]
+    },
+    {
+      "name": "docs-starter",
+      "nameWithOwner": "abdulrehman705/docs-starter",
+      "url": "https://github.com/abdulrehman705/docs-starter",
+      "isPrivate": false,
+      "isFork": false,
+      "primaryLanguage": null,
+      "owner": {
+        "login": "abdulrehman705",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114110301?u=9e2f7137de7b94ebec044ccc9e456988230ade59&v=4",
+        "url": "https://github.com/abdulrehman705"
+      },
+      "totalCount": 1,
+      "commits": [
+        {
+          "oid": "870684691ded8e4f026096952db94ca621d55f75",
+          "message": "Initial commit",
+          "messageHeadline": "Initial commit",
+          "committedDate": "2026-08-11T08:48:10Z",
+          "url": "https://github.com/abdulrehman705/docs-starter/commit/870684691ded8e4f026096952db94ca621d55f75",
+          "additions": 9452,
+          "deletions": 0,
+          "changedFilesIfAvailable": 23
         }
       ]
     },
@@ -3031,8 +3041,8 @@
       ]
     }
   ],
-  "since": "2025-08-18T01:36:53.690Z",
-  "totalCount": 287,
+  "since": "2025-08-19T01:39:12.129Z",
+  "totalCount": 288,
   "repoCount": 10,
   "privateRepos": 0,
   "publicRepos": 10,

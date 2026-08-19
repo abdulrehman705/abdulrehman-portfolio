@@ -129,13 +129,13 @@
       "id": "PR_kwDOMcEDz876iV27",
       "title": "Update README.md",
       "url": "https://github.com/abdulrehman705/abdulrehman705/pull/38",
-      "state": "OPEN",
+      "state": "CLOSED",
       "mergedBy": null,
       "createdAt": "2026-08-04T12:25:40Z",
       "number": 38,
-      "changedFiles": 1,
-      "additions": 1,
-      "deletions": 2,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
       "baseRepository": {
         "name": "abdulrehman705",
         "url": "https://github.com/abdulrehman705/abdulrehman705",
@@ -1293,8 +1293,8 @@
       }
     }
   ],
-  "open": 2,
+  "open": 1,
   "merged": 50,
-  "closed": 0,
+  "closed": 1,
   "totalCount": 52
 }
